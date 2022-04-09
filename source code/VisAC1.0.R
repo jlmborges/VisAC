@@ -20,6 +20,7 @@ print_time <- FALSE
 
 #' VisAC: An Interactive Tool for Visual Analysis of Consanguinity in the Ancestry of Individuals
 #
+#' A Shiny app
 #'
 #'@export
 VisAC <- function() { ## convert into a stanalone function
