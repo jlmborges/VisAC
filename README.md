@@ -3,4 +3,4 @@
 
 The R, ggplot2, and Shiny tool proposed in a paper published in the Information Visualization journal.
 
-<img align="right" src="https://github.com/vega/logos/blob/master/assets/VL_Color@64.png?raw=true" height="38"></img>
+<img align="right" src="https://github.com/jlmborges/VisAC/blob/main/images/VisAC_v1.0__Charles_SpainMarie_Louise-I29_I152_g5_2022-04-09.jpg" height="100"></img>
