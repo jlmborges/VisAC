@@ -5,4 +5,4 @@ We have been working on visualization designs to support genealogy research (see
 
 The VisAC tool is implemented in R, ggplot2, and Shiny. Below, we show an image obtained with the tool representing the six generations' ancestors tree for Charles II of Spain and his second wife Marie Louise, highlighting their co-ancestry.
 
-<img align="center" src="https://github.com/jlmborges/VisAC/blob/main/images/VisAC_v1.0__Charles_SpainMarie_Louise-I29_I152_g6_2022-04-09.jpg" height="500"></img>
+![VisAC_v1 0__Charles_SpainMarie_Louise-I29_I152_g6_2022-04-09](https://user-images.githubusercontent.com/45044810/164264990-aee36688-dffb-4d31-8e10-176b888ee0dd.jpg)
