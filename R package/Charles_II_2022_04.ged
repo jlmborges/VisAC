@@ -1,0 +1,4329 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SOUR MYHERITAGE
+2 NAME MyHeritage Family Tree Builder
+2 VERS 8.0.0.8625
+2 _RTLSAVE RTL
+2 CORP MyHeritage.com
+1 SUBM @U1@
+1 DEST MYHERITAGE
+1 DATE 8 APR 2022
+2 TIME 14:08:36 
+2 _TIMEZONE GMT+-0
+1 _RINS I224,F94,N0,M0,R0,S0,U2,L0,P0,Q0,IF480,FF69
+1 _UID 624F5C4E6444B1400CCD9AC53BB22399
+1 _DESCRIPTION_AWARE Y
+0  _PUBLISH
+1 _SITEADDRESS ferreiramouraborges
+1 _SITENAME Ferreira Moura Borges
+1 _SITEID 255552541
+1 _USERNAME jlborges@@fe.up.pt
+1 _DISABLED Y
+0 @U1@ SUBM
+1 RIN MH:U1
+0 @U2@ SUBM
+1 RIN MH:U2
+0 @I1@ INDI
+1 RIN MH:I1
+1 _UID 5cbdd2dc626291e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:40:10 GMT+-0
+1 NAME Philip I of Castile //
+2 GIVN Philip I of Castile
+1 SEX M
+1 BIRT
+2 _UID 5cbdd313a93e41e9be87d4bed98d72bb
+2 RIN MH:IF1
+2 DATE 22 JUL 1478
+2 PLAC Bruges, Flanders
+1 DEAT
+2 _UID 5cbdd313626291e9be87d4bed98d72bb
+2 RIN MH:IF2
+2 DATE 25 SEP 1506
+2 PLAC Burgos, Castile
+1 FAMS @F1@
+1 FAMC @F19@
+0 @I2@ INDI
+1 RIN MH:I2
+1 _UID 5cbdd2dce4f6e1e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:40:10 GMT+-0
+1 NAME Joanna of Castile //
+2 GIVN Joanna of Castile
+1 SEX F
+1 BIRT
+2 _UID 5cbdd313e4f6e1e9be87d4bed98d72bb
+2 RIN MH:IF3
+2 DATE 6 NOV 1479
+2 PLAC Toledo, Castile
+1 DEAT
+2 _UID 5cbdd3132faa31e9be87d4bed98d72bb
+2 RIN MH:IF4
+2 DATE 12 APR 1555
+2 PLAC Tordesillas, Castile
+1 FAMS @F1@
+1 FAMC @F20@
+0 @I3@ INDI
+1 RIN MH:I3
+1 _UID 5cbdd323a93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:22:58 GMT+-0
+1 NAME Charles V, Holy Roman Emperor //
+2 GIVN Charles V, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 5cbdd459a93e41e9be87d4bed98d72bb
+2 RIN MH:IF5
+2 DATE 24 FEB 1500
+2 PLAC Prinsenhof of Ghent, Flanders
+1 DEAT
+2 _UID 5cbdd459626291e9be87d4bed98d72bb
+2 RIN MH:IF6
+2 DATE 21 SEP 1558
+2 PLAC Monastery of Yuste, Castile
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I4@ INDI
+1 RIN MH:I4
+1 _UID 5cbdd45ca93e41e9be87d4bed98d72bb
+1 _UPD 7 APR 2022 23:02:57 GMT+-0
+1 NAME Ferdinand I, Holy Roman Emperor //
+2 GIVN Ferdinand I, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 5cbdd476a93e41e9be87d4bed98d72bb
+2 RIN MH:IF7
+2 DATE 10 MAR 1503
+2 PLAC Alcalá de Henares, Castile
+1 DEAT
+2 _UID 5cbdd476626291e9be87d4bed98d72bb
+2 RIN MH:IF8
+2 DATE 25 JUL 1564
+2 PLAC Vienna, Austria
+1 FAMS @F4@
+1 FAMC @F1@
+0 @I5@ INDI
+1 RIN MH:I5
+1 _UID 5cbdd477a93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 17:08:21 GMT+-0
+1 NAME Isabella of Burgundy //
+2 GIVN Isabella of Burgundy
+1 SEX F
+1 BIRT
+2 _UID 5cbdd48ca93e41e9be87d4bed98d72bb
+2 RIN MH:IF9
+2 DATE 18 JUL 1501
+2 PLAC Brussels, Habsburg Netherlands
+1 DEAT
+2 _UID 5cbdd48c626291e9be87d4bed98d72bb
+2 RIN MH:IF10
+2 DATE 19 JAN 1526
+2 PLAC Ghent
+1 FAMS @F3@
+1 FAMC @F1@
+0 @I6@ INDI
+1 RIN MH:I6
+1 _UID 5cbdd498e4f6e1e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:22:58 GMT+-0
+1 NAME Isabella of Portugal //
+2 GIVN Isabella of Portugal
+1 SEX F
+1 BIRT
+2 _UID 5cbdd4aaa93e41e9be87d4bed98d72bb
+2 RIN MH:IF11
+2 DATE 24 OCT 1503
+2 PLAC Lisbon, Portugal
+1 DEAT
+2 _UID 5cbdd4aa626291e9be87d4bed98d72bb
+2 RIN MH:IF12
+2 DATE 1 MAY 1539
+2 PLAC Toledo, Spain
+1 FAMS @F2@
+1 FAMC @F18@
+0 @I7@ INDI
+1 RIN MH:I7
+1 _UID 5cbdd4bee4f6e1e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 16:59:45 GMT+-0
+1 NAME Christian II, of Denmark //
+2 GIVN Christian II, of Denmark
+1 SEX M
+1 BIRT
+2 _UID 5cbdd4d7a93e41e9be87d4bed98d72bb
+2 RIN MH:IF13
+2 DATE 1 JUL 1481
+2 PLAC Nyborg Castle
+1 DEAT
+2 _UID 5cbdd4d7626291e9be87d4bed98d72bb
+2 RIN MH:IF14
+2 DATE 25 JAN 1559
+2 PLAC Kalundborg Castle
+1 FAMS @F3@
+1 FAMC @F41@
+0 @I8@ INDI
+1 RIN MH:I8
+1 _UID 5cbdd4dfe4f6e1e9be87d4bed98d72bb
+1 _UPD 7 APR 2022 23:02:57 GMT+-0
+1 NAME Anna of Bohemia and Hungary //
+2 GIVN Anna of Bohemia and Hungary
+1 SEX F
+1 BIRT
+2 _UID 5cbdd4f5a93e41e9be87d4bed98d72bb
+2 RIN MH:IF15
+2 DATE 23 JUL 1503
+1 DEAT
+2 _UID 5cbdd4f5626291e9be87d4bed98d72bb
+2 RIN MH:IF16
+2 DATE 27 JAN 1547
+1 FAMS @F4@
+1 FAMC @F17@
+0 @I9@ INDI
+1 RIN MH:I9
+1 _UID 5cbdd5b9a93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 14:59:38 GMT+-0
+1 NAME Philip II, of Spain //
+2 GIVN Philip II, of Spain
+1 SEX M
+1 BIRT
+2 _UID 5cbdd5cda93e41e9be87d4bed98d72bb
+2 RIN MH:IF17
+2 DATE 21 MAY 1527
+2 PLAC Palacio de Pimentel, Valladolid
+1 DEAT
+2 _UID 5cbdd5cd626291e9be87d4bed98d72bb
+2 RIN MH:IF18
+2 DATE 13 SEP 1598
+2 PLAC El Escorial, Castile
+1 FAMS @F8@
+1 FAMC @F2@
+0 @I10@ INDI
+1 RIN MH:I10
+1 _UID 5cbdd5cfa93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 17:10:13 GMT+-0
+1 NAME Maria of Spain //
+2 GIVN Maria of Spain
+1 SEX F
+1 BIRT
+2 _UID 5cbdd5e7a93e41e9be87d4bed98d72bb
+2 RIN MH:IF19
+2 DATE 21 JUN 1528
+2 PLAC Madrid, Spain
+1 DEAT
+2 _UID 5cbdd5e7626291e9be87d4bed98d72bb
+2 RIN MH:IF20
+2 DATE 26 FEB 1603
+2 PLAC Convent of Las Descalzas Reales, Madrid, Spain
+1 FAMS @F5@
+1 FAMC @F2@
+0 @I11@ INDI
+1 RIN MH:I11
+1 _UID 5cbdd5fca93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 17:11:42 GMT+-0
+1 NAME Maximilian II, Holy Roman Emperor //
+2 GIVN Maximilian II, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 5cbdd620a93e41e9be87d4bed98d72bb
+2 RIN MH:IF21
+2 DATE 31 JUL 1527
+2 PLAC Vienna, Austria
+1 DEAT
+2 _UID 5cbdd620626291e9be87d4bed98d72bb
+2 RIN MH:IF22
+2 DATE 12 OCT 1576
+2 PLAC Imperial City of Regensburg
+1 FAMS @F5@
+1 FAMC @F4@
+0 @I12@ INDI
+1 RIN MH:I12
+1 _UID 5cbdd626a93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:17:33 GMT+-0
+1 NAME Charles II of Austria //
+2 GIVN Charles II of Austria
+1 SEX M
+1 BIRT
+2 _UID 5cbdd63ba93e41e9be87d4bed98d72bb
+2 RIN MH:IF23
+2 DATE 3 JUN 1540
+2 PLAC Vienna, Austria
+1 DEAT
+2 _UID 5cbdd63b626291e9be87d4bed98d72bb
+2 RIN MH:IF24
+2 DATE 10 JUL 1590
+2 PLAC Graz, Austria
+1 FAMS @F9@
+1 FAMC @F4@
+0 @I13@ INDI
+1 RIN MH:I13
+1 _UID 5cbdd63ca93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:00:55 GMT+-0
+1 NAME Anna of Austria (Habsburg) //
+2 GIVN Anna of Austria (Habsburg)
+1 SEX F
+1 BIRT
+2 _UID 5cbdd654a93e41e9be87d4bed98d72bb
+2 RIN MH:IF25
+2 DATE 7 JUL 1528
+1 DEAT
+2 _UID 5cbdd654626291e9be87d4bed98d72bb
+2 RIN MH:IF26
+2 DATE 16 OCT 1590
+1 FAMS @F6@
+1 FAMC @F4@
+0 @I14@ INDI
+1 RIN MH:I14
+1 _UID 5cbdd665a93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:00:55 GMT+-0
+1 NAME Albert V, Duke of Bavaria //
+2 GIVN Albert V, Duke of Bavaria
+1 SEX M
+1 BIRT
+2 _UID 5cbdd67fa93e41e9be87d4bed98d72bb
+2 RIN MH:IF27
+2 DATE 28 FEB 1528
+2 PLAC Munich
+1 DEAT
+2 _UID 5cbdd67f626291e9be87d4bed98d72bb
+2 RIN MH:IF28
+2 DATE 24 OCT 1579
+2 PLAC Munich
+1 FAMS @F6@
+1 FAMC @F16@
+0 @I15@ INDI
+1 RIN MH:I15
+1 _UID 5cbdd681a93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 17:05:33 GMT+-0
+1 NAME Christina of Denmark //
+2 GIVN Christina of Denmark
+1 SEX F
+1 BIRT
+2 _UID 5cbdd695a93e41e9be87d4bed98d72bb
+2 RIN MH:IF29
+2 DATE NOV 1521
+2 PLAC Nyborg, Denmark
+1 DEAT
+2 _UID 5cbdd695626291e9be87d4bed98d72bb
+2 RIN MH:IF30
+2 DATE 10 DEC 1590
+2 PLAC Tortona, Alessandria, Duchy of Milan
+1 FAMS @F7@
+1 FAMC @F3@
+0 @I16@ INDI
+1 RIN MH:I16
+1 _UID 5cbdd69da93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 17:07:12 GMT+-0
+1 NAME Francis I, Duke of Lorraine //
+2 GIVN Francis I, Duke of Lorraine
+1 SEX M
+1 BIRT
+2 _UID 5cbdd6bea93e41e9be87d4bed98d72bb
+2 RIN MH:IF31
+2 DATE 23 AUG 1517
+2 PLAC Nancy, Lorraine
+1 DEAT
+2 _UID 5cbdd6be626291e9be87d4bed98d72bb
+2 RIN MH:IF32
+2 DATE 12 JUN 1545
+2 PLAC Remiremont
+1 FAMS @F7@
+1 FAMC @F15@
+0 @I17@ INDI
+1 RIN MH:I17
+1 _UID 5cbdd6e9a93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 15:00:28 GMT+-0
+1 NAME Anne of Austria //
+2 GIVN Anne of Austria
+1 SEX F
+1 BIRT
+2 _UID 5cbdd6fca93e41e9be87d4bed98d72bb
+2 RIN MH:IF33
+2 DATE 2 NOV 1549
+2 PLAC Cigales, Spain
+1 DEAT
+2 _UID 5cbdd6fc626291e9be87d4bed98d72bb
+2 RIN MH:IF34
+2 DATE 26 OCT 1580
+2 PLAC Badajoz, Spain
+1 FAMS @F8@
+1 FAMC @F5@
+0 @I18@ INDI
+1 RIN MH:I18
+1 _UID 5cbdd76fa93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 16:17:33 GMT+-0
+1 NAME Maria Anna of Bavaria //
+2 GIVN Maria Anna of Bavaria
+1 SEX F
+1 BIRT
+2 _UID 5cbdd787a93e41e9be87d4bed98d72bb
+2 RIN MH:IF35
+2 DATE 21 MAR 1551
+2 PLAC Munich
+1 DEAT
+2 _UID 5cbdd787626291e9be87d4bed98d72bb
+2 RIN MH:IF36
+2 DATE 29 APR 1608
+2 PLAC Graz, Archduchy of Austria
+1 FAMS @F9@
+1 FAMC @F6@
+0 @I19@ INDI
+1 RIN MH:I19
+1 _UID 5cbdd78ba93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 17:13:27 GMT+-0
+1 NAME William V, Duke of Bavaria //
+2 GIVN William V, Duke of Bavaria
+1 SEX M
+1 BIRT
+2 _UID 5cbdd7a6a93e41e9be87d4bed98d72bb
+2 RIN MH:IF37
+2 DATE 29 SEP 1548
+2 PLAC Landshut
+1 DEAT
+2 _UID 5cbdd7a6626291e9be87d4bed98d72bb
+2 RIN MH:IF38
+2 DATE 7 FEB 1626
+2 PLAC Schleissheim Palace
+1 FAMS @F10@
+1 FAMC @F6@
+0 @I20@ INDI
+1 RIN MH:I20
+1 _UID 5cbdd93ca93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 17:12:30 GMT+-0
+1 NAME Renata of Lorraine //
+2 GIVN Renata of Lorraine
+1 SEX F
+1 BIRT
+2 _UID 5cbdd94ca93e41e9be87d4bed98d72bb
+2 RIN MH:IF39
+2 DATE 20 APR 1544
+2 PLAC Nancy, Lorraine
+1 DEAT
+2 _UID 5cbdd94c626291e9be87d4bed98d72bb
+2 RIN MH:IF40
+2 DATE 22 MAY 1602
+2 PLAC Munich
+1 FAMS @F10@
+1 FAMC @F7@
+0 @I21@ INDI
+1 RIN MH:I21
+1 _UID 5cbdd982a93e41e9be87d4bed98d72bb
+1 _UPD 7 APR 2022 22:59:39 GMT+-0
+1 NAME Philipe III of Spain //
+2 GIVN Philipe III of Spain
+1 SEX M
+1 BIRT
+2 _UID 5cbdd995a93e41e9be87d4bed98d72bb
+2 RIN MH:IF41
+2 DATE 14 APR 1578
+2 PLAC Royal Alcázar of Madrid
+1 DEAT
+2 _UID 5cbdd995626291e9be87d4bed98d72bb
+2 RIN MH:IF42
+2 DATE 31 MAR 1621
+2 PLAC Madrid
+1 FAMS @F11@
+1 FAMC @F8@
+0 @I22@ INDI
+1 RIN MH:I22
+1 _UID 5cbdd9c1a93e41e9be87d4bed98d72bb
+1 _UPD 7 APR 2022 22:59:39 GMT+-0
+1 NAME Margaret of Austria //
+2 GIVN Margaret of Austria
+1 SEX F
+1 BIRT
+2 _UID 5cbdd9d8a93e41e9be87d4bed98d72bb
+2 RIN MH:IF43
+2 DATE 25 DEC 1584
+2 PLAC Graz, Austria
+1 DEAT
+2 _UID 5cbdd9d8626291e9be87d4bed98d72bb
+2 RIN MH:IF44
+2 DATE 3 OCT 1611
+2 PLAC San Lorenzo de El Escorial, Spain
+1 FAMS @F11@
+1 FAMC @F9@
+0 @I23@ INDI
+1 RIN MH:I23
+1 _UID 5cbdd9dda93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 14:56:29 GMT+-0
+1 NAME Ferdinand II, Holy Roman Emperor //
+2 GIVN Ferdinand II, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 5cbdda01a93e41e9be87d4bed98d72bb
+2 RIN MH:IF45
+2 DATE 9 JUL 1578
+2 PLAC Graz, Duchy of Styria, Austria
+1 DEAT
+2 _UID 5cbdda01626291e9be87d4bed98d72bb
+2 RIN MH:IF46
+2 DATE 15 FEB 1637
+2 PLAC Vienna, Austria
+1 FAMS @F12@
+1 FAMC @F9@
+0 @I24@ INDI
+1 RIN MH:I24
+1 _UID 5cbdda23a93e41e9be87d4bed98d72bb
+1 _UPD 24 SEP 2021 14:57:27 GMT+-0
+1 NAME Maria Anna of Bavaria //
+2 GIVN Maria Anna of Bavaria
+1 SEX F
+1 BIRT
+2 _UID 5cbdda3da93e41e9be87d4bed98d72bb
+2 RIN MH:IF47
+2 DATE 8 DEC 1574
+2 PLAC Munich
+1 DEAT
+2 _UID 5cbdda3d626291e9be87d4bed98d72bb
+2 RIN MH:IF48
+2 DATE 8 MAR 1616
+2 PLAC Graz
+1 FAMS @F12@
+1 FAMC @F10@
+0 @I25@ INDI
+1 RIN MH:I25
+1 _UID 5cbddac5a93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 17:01:14 GMT+-0
+1 NAME Philip IV, of Spain //
+2 GIVN Philip IV, of Spain
+1 SEX M
+1 BIRT
+2 _UID 5cbddad9a93e41e9be87d4bed98d72bb
+2 RIN MH:IF49
+2 DATE 8 APR 1605
+2 PLAC Royal Palace of Valladolid
+1 DEAT
+2 _UID 5cbddad9626291e9be87d4bed98d72bb
+2 RIN MH:IF50
+2 DATE 17 SEP 1665
+2 PLAC Madrid
+1 FAMS @F14@
+1 FAMC @F11@
+0 @I26@ INDI
+1 RIN MH:I26
+1 _UID 5cbddb02a93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 17:07:48 GMT+-0
+1 NAME Maria Anna of Spain //
+2 GIVN Maria Anna of Spain
+1 SEX F
+1 BIRT
+2 _UID 5cbddb14a93e41e9be87d4bed98d72bb
+2 RIN MH:IF51
+2 DATE 18 AUG 1606
+2 PLAC El Escorial, Spain
+1 DEAT
+2 _UID 5cbddb14626291e9be87d4bed98d72bb
+2 RIN MH:IF52
+2 DATE 13 MAY 1646
+2 PLAC Linz, Austria
+1 FAMS @F13@
+1 FAMC @F11@
+0 @I27@ INDI
+1 RIN MH:I27
+1 _UID 5cbddb51a93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 17:07:48 GMT+-0
+1 NAME Ferdinand III, Holy Roman Emperor //
+2 GIVN Ferdinand III, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 5cbddb6da93e41e9be87d4bed98d72bb
+2 RIN MH:IF53
+2 DATE 13 JUL 1608
+1 DEAT
+2 _UID 5cbddb6d626291e9be87d4bed98d72bb
+2 RIN MH:IF54
+2 DATE 2 APR 1657
+1 FAMS @F13@
+1 FAMC @F12@
+0 @I28@ INDI
+1 RIN MH:I28
+1 _UID 5cbddbb0a93e41e9be87d4bed98d72bb
+1 _UPD 27 SEP 2021 17:01:14 GMT+-0
+1 NAME Mariana of Austria //
+2 GIVN Mariana of Austria
+1 SEX F
+1 BIRT
+2 _UID 5cbddbbfa93e41e9be87d4bed98d72bb
+2 RIN MH:IF55
+2 DATE 24 DEC 1634
+2 PLAC Wiener Neustadt
+1 DEAT
+2 _UID 5cbddbbf626291e9be87d4bed98d72bb
+2 RIN MH:IF56
+2 DATE 16 MAY 1696
+2 PLAC Uceda Palace, Madrid
+1 FAMS @F14@
+1 FAMC @F13@
+0 @I29@ INDI
+1 RIN MH:I29
+1 _UID 5cbddbd2a93e41e9be87d4bed98d72bb
+1 _UPD 7 APR 2022 22:50:22 GMT+-0
+1 NAME Charles II, of Spain //
+2 GIVN Charles II, of Spain
+1 SEX M
+1 BIRT
+2 _UID 5cbddbe5a93e41e9be87d4bed98d72bb
+2 RIN MH:IF57
+2 DATE 6 NOV 1661
+2 PLAC Royal Alcazar of Madrid
+1 DEAT
+2 _UID 5cbddbe5626291e9be87d4bed98d72bb
+2 RIN MH:IF58
+2 DATE 1 NOV 1700
+2 PLAC Royal Alcazar of Madrid
+1 FAMS @F94@
+1 FAMC @F14@
+0 @I30@ INDI
+1 RIN MH:I30
+1 _UID 614dd15f3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:54:40 GMT+-0
+1 NAME Antoine, Duke of Lorraine //
+2 GIVN Antoine, Duke of Lorraine
+1 SEX M
+1 BIRT
+2 _UID 614dd1683c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF59
+2 DATE 4 JUN 1489
+2 PLAC Bar-le-Duc
+1 DEAT
+2 _UID 614dd168f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF60
+2 DATE 14 JUN 1544
+1 DEAT
+2 _UID 614df4aa3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF162
+2 DATE 14 JUN 1544
+2 PLAC Bar-le-Duc
+1 FAMS @F15@
+1 FAMC @F39@
+0 @I31@ INDI
+1 RIN MH:I31
+1 _UID 614dd1723c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:56:32 GMT+-0
+1 NAME Renée de Bourbon //
+2 GIVN Renée de Bourbon
+1 SEX F
+1 BIRT
+2 _UID 614dd1903c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF61
+2 DATE 1494
+1 DEAT
+2 _UID 614dd190f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF62
+2 DATE 26 MAY 1539
+2 PLAC Nancy, Lorraine
+1 FAMS @F15@
+1 FAMC @F40@
+0 @I32@ INDI
+1 RIN MH:I32
+1 _UID 614dd28e3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 15:17:00 GMT+-0
+1 NAME William IV of Bavaria //
+2 GIVN William IV of Bavaria
+1 SEX M
+1 BIRT
+2 _UID 614dd2dc3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF63
+2 DATE 13 NOV 1493
+2 PLAC Munich
+1 DEAT
+2 _UID 614dd2dcf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF64
+2 DATE 7 MAR 1550
+2 PLAC Munich
+1 FAMS @F16@
+1 FAMC @F24@
+0 @I33@ INDI
+1 RIN MH:I33
+1 _UID 614dd2ff3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 14:31:00 GMT+-0
+1 NAME Marie Jakobaea of Baden-Sponheim //
+2 GIVN Marie Jakobaea of Baden-Sponheim
+1 SEX F
+1 BIRT
+2 _UID 614dd3143c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF65
+2 DATE 25 JUN 1507
+1 DEAT
+2 _UID 614dd314f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF66
+2 DATE 16 NOV 1580
+1 FAMS @F16@
+1 FAMC @F25@
+0 @I34@ INDI
+1 RIN MH:I34
+1 _UID 614dd3b83c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 14:35:08 GMT+-0
+1 NAME Vladislaus II of Hungary //
+2 GIVN Vladislaus II of Hungary
+1 SEX M
+1 BIRT
+2 _UID 614dd3cf3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF67
+2 DATE 1 MAR 1456
+1 DEAT
+2 _UID 614dd3cff73091ec8df5ccd9ac53bb22
+2 RIN MH:IF68
+2 DATE 13 MAR 1516
+1 FAMS @F17@
+1 FAMC @F22@
+0 @I35@ INDI
+1 RIN MH:I35
+1 _UID 614dd3db3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 14:35:08 GMT+-0
+1 NAME Anne of Foix-Candale //
+2 GIVN Anne of Foix-Candale
+1 SEX F
+1 BIRT
+2 _UID 614dd40c3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF69
+2 DATE 1484
+1 DEAT
+2 _UID 614dd40cf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF70
+2 DATE 26 JUL 1506
+1 FAMS @F17@
+1 FAMC @F23@
+0 @I36@ INDI
+1 RIN MH:I36
+1 _UID 614dd4543c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 14:37:56 GMT+-0
+1 NAME Manuel I of Portugal //
+2 GIVN Manuel I of Portugal
+1 SEX M
+1 BIRT
+2 _UID 614dd4683c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF71
+2 DATE 31 MAY 1469
+1 DEAT
+2 _UID 614dd468f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF72
+2 DATE 13 DEC 1521
+1 FAMS @F18@
+1 FAMC @F21@
+0 @I37@ INDI
+1 RIN MH:I37
+1 _UID 614dd47f3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 14:37:56 GMT+-0
+1 NAME Maria of Aragon, Queen of Portugal //
+2 GIVN Maria of Aragon, Queen of Portugal
+1 SEX F
+1 BIRT
+2 _UID 614dd4b43c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF73
+2 DATE 29 JUN 1482
+1 DEAT
+2 _UID 614dd4b4f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF74
+2 DATE 7 MAR 1517
+1 FAMS @F18@
+1 FAMC @F20@
+0 @I38@ INDI
+1 RIN MH:I38
+1 _UID 614dd5743c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 14:42:15 GMT+-0
+1 NAME Maximilian I, Holy Roman Emperor //
+2 GIVN Maximilian I, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 614dd5873c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF75
+2 DATE 22 MAR 1459
+1 DEAT
+2 _UID 614dd587f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF76
+2 DATE 12 JAN 1519
+1 FAMS @F19@
+1 FAMC @F26@
+0 @I39@ INDI
+1 RIN MH:I39
+1 _UID 614dd5973c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 14:42:15 GMT+-0
+1 NAME Mary of Burgundy //
+2 GIVN Mary of Burgundy
+1 SEX F
+1 BIRT
+2 _UID 614dd5b73c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF77
+2 DATE 13 FEB 1457
+1 DEAT
+2 _UID 614dd5b7f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF78
+2 DATE 27 MAR 1482
+1 FAMS @F19@
+1 FAMC @F27@
+0 @I40@ INDI
+1 RIN MH:I40
+1 _UID 614dd5cf3c6c41ec8df5ccd9ac53bb22
+1 _UPD 27 SEP 2021 16:43:11 GMT+-0
+1 NAME Ferdinand II of Aragon //
+2 GIVN Ferdinand II of Aragon
+1 SEX M
+1 BIRT
+2 _UID 614dd5e43c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF79
+2 DATE 10 MAR 1452
+2 PLAC Sos, Aragon
+1 DEAT
+2 _UID 614dd5e4f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF80
+2 DATE 23 JAN 1516
+1 DEAT
+2 _UID 614decbd3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF111
+2 DATE 23 JAN 1516
+2 PLAC Madrigalejo, Extremadura
+1 FAMS @F20@
+1 FAMC @F28@
+0 @I41@ INDI
+1 RIN MH:I41
+1 _UID 614dd5f13c6c41ec8df5ccd9ac53bb22
+1 _UPD 27 SEP 2021 16:43:11 GMT+-0
+1 NAME Isabella I of Castile //
+2 GIVN Isabella I of Castile
+1 SEX F
+1 BIRT
+2 _UID 614dd6013c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF81
+2 DATE 22 APR 1451
+2 PLAC Madrigal de las Altas Torres
+1 DEAT
+2 _UID 614dd601f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF82
+2 DATE 26 NOV 1504
+1 DEAT
+2 _UID 614ded873c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF116
+2 DATE 26 NOV 1504
+2 PLAC Medina del Campo
+1 FAMS @F20@
+1 FAMC @F29@
+0 @I42@ INDI
+1 RIN MH:I42
+1 _UID 614dda1b3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 15:02:15 GMT+-0
+1 NAME Ferdinand, Duke of Viseu //
+2 GIVN Ferdinand, Duke of Viseu
+1 SEX M
+1 BIRT
+2 _UID 614dda393c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF83
+2 DATE 17 NOV 1433
+2 PLAC Almeirim
+1 DEAT
+2 _UID 614dda39f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF84
+2 DATE 18 SEP 1470
+2 PLAC Setúbal
+1 FAMS @F21@
+1 FAMC @F30@
+0 @I43@ INDI
+1 RIN MH:I43
+1 _UID 614dda4b3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 15:02:15 GMT+-0
+1 NAME Beatriz of Portugal, Duchess of Viseu //
+2 GIVN Beatriz of Portugal, Duchess of Viseu
+1 SEX F
+1 BIRT
+2 _UID 614dda673c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF85
+2 DATE 13 JUN 1430
+1 DEAT
+2 _UID 614dda67f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF86
+2 DATE 30 SEP 1506
+1 FAMS @F21@
+1 FAMC @F31@
+0 @I44@ INDI
+1 RIN MH:I44
+1 _UID 614ddc623c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:35:01 GMT+-0
+1 NAME Casimir IV Jagiellon //
+2 GIVN Casimir IV Jagiellon
+1 SEX M
+1 BIRT
+2 _UID 614ddc893c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF87
+2 DATE 30 NOV 1427
+2 PLAC Kraków, Poland
+1 DEAT
+2 _UID 614ddc89f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF88
+2 DATE 7 JUN 1492
+2 PLAC Old Grodno Castle
+1 DEAT
+2 _UID 614df0193c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF129
+2 DATE 7 JUN 1492
+2 PLAC Old Grodno Castle
+1 FAMS @F22@
+1 FAMC @F32@
+0 @I45@ INDI
+1 RIN MH:I45
+1 _UID 614ddc9c3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 15:12:13 GMT+-0
+1 NAME Elizabeth of Austria //
+2 GIVN Elizabeth of Austria
+1 SEX F
+1 BIRT
+2 _UID 614ddcbd3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF89
+2 DATE 1436
+2 PLAC Vienna, Austria
+1 DEAT
+2 _UID 614ddcbdf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF90
+2 DATE 30 AUG 1505
+2 PLAC Kraków, Poland
+1 FAMS @F22@
+1 FAMC @F33@
+0 @I46@ INDI
+1 RIN MH:I46
+1 _UID 614ddcd93c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:41:22 GMT+-0
+1 NAME Gaston de Foix, Count of Candale //
+2 GIVN Gaston de Foix, Count of Candale
+1 SEX M
+1 BIRT
+2 _UID 614ddcee3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF91
+2 DATE 1448
+1 DEAT
+2 _UID 614ddceef73091ec8df5ccd9ac53bb22
+2 RIN MH:IF92
+2 DATE 25 MAR 1500
+1 DEAT
+2 _UID 614df19d3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF138
+2 DATE 25 MAR 1500
+1 FAMS @F23@
+1 FAMC @F35@
+0 @I47@ INDI
+1 RIN MH:I47
+1 _UID 614ddd093c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:41:40 GMT+-0
+1 NAME Catherine of Foix, Countess of Candale //
+2 GIVN Catherine of Foix, Countess of Candale
+1 SEX F
+1 BIRT
+2 _UID 614ddd2a3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF93
+2 DATE ABT 1455
+1 DEAT
+2 _UID 614ddd2af73091ec8df5ccd9ac53bb22
+2 RIN MH:IF94
+2 DATE BEF 1494
+1 DEAT
+2 _UID 614df1b03c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF139
+2 DATE BEF 1494
+1 FAMS @F23@
+1 FAMC @F34@
+0 @I48@ INDI
+1 RIN MH:I48
+1 _UID 614dddec3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:46:16 GMT+-0
+1 NAME Albert IV, Duke of Bavaria //
+2 GIVN Albert IV, Duke of Bavaria
+1 SEX M
+1 BIRT
+2 _UID 614dde083c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF95
+2 DATE 15 DEC 1447
+2 PLAC Munich
+1 DEAT
+2 _UID 614dde08f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF96
+2 DATE 18 MAR 1508
+2 PLAC Munich
+1 DEAT
+2 _UID 614df2b23c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF148
+2 DATE 18 MAR 1508
+2 PLAC Munich, Duchy of Bavaria
+1 FAMS @F24@
+1 FAMC @F36@
+0 @I49@ INDI
+1 RIN MH:I49
+1 _UID 614dde143c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 15:18:30 GMT+-0
+1 NAME Kunigunde of Austria //
+2 GIVN Kunigunde of Austria
+1 SEX F
+1 BIRT
+2 _UID 614dde363c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF97
+2 DATE 16 MAR 1465
+2 PLAC Wiener Neustadt, Styria
+1 DEAT
+2 _UID 614dde36f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF98
+2 DATE 6 AUG 1520
+2 PLAC Püttrich Convent, Munich
+1 FAMS @F24@
+1 FAMC @F26@
+0 @I50@ INDI
+1 RIN MH:I50
+1 _UID 614dde543c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:50:11 GMT+-0
+1 NAME Philip I, Margrave of Baden //
+2 GIVN Philip I, Margrave of Baden
+1 SEX M
+1 BIRT
+2 _UID 614dde683c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF99
+2 DATE 6 NOV 1479
+1 DEAT
+2 _UID 614dde68f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF100
+2 DATE 17 SEP 1533
+1 DEAT
+2 _UID 614df3ae3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF153
+2 DATE 17 SEP 1533
+1 FAMS @F25@
+1 FAMC @F37@
+0 @I51@ INDI
+1 RIN MH:I51
+1 _UID 614dde753c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 15:20:19 GMT+-0
+1 NAME Elisabeth of the Palatinate, Landgravine of Hesse //
+2 GIVN Elisabeth of the Palatinate, Landgravine of Hesse
+1 SEX F
+1 BIRT
+2 _UID 614ddea33c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF101
+2 DATE 16 NOV 1483
+2 PLAC Heidelberg
+1 DEAT
+2 _UID 614ddea3f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF102
+2 DATE 24 JUN 1522
+2 PLAC Baden-Baden
+1 FAMS @F25@
+1 FAMC @F38@
+0 @I52@ INDI
+1 RIN MH:I52
+1 _UID 614deb003c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:48:54 GMT+-0
+1 NAME Frederick III, Holy Roman Emperor //
+2 GIVN Frederick III, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 614deb233c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF103
+2 DATE 21 SEP 1415
+2 PLAC Innsbruck, Tyrol
+1 DEAT
+2 _UID 614deb23f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF104
+2 DATE 19 AUG 1493
+2 PLAC Linz, Austria
+1 FAMS @F26@
+0 @I53@ INDI
+1 RIN MH:I53
+1 _UID 614deb3e3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:48:54 GMT+-0
+1 NAME Eleanor of Portugal, Holy Roman Empress //
+2 GIVN Eleanor of Portugal, Holy Roman Empress
+1 SEX F
+1 BIRT
+2 _UID 614deb6d3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF105
+2 DATE 18 SEP 1434
+2 PLAC Torres Vedras
+1 DEAT
+2 _UID 614deb6df73091ec8df5ccd9ac53bb22
+2 RIN MH:IF106
+2 DATE 3 SEP 1467
+2 PLAC Wiener Neustadt
+1 FAMS @F26@
+0 @I54@ INDI
+1 RIN MH:I54
+1 _UID 614deb8b3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:16:45 GMT+-0
+1 NAME Charles the Bold //
+2 GIVN Charles the Bold
+1 SEX M
+1 BIRT
+2 _UID 614debb03c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF107
+2 DATE 10 NOV 1433
+2 PLAC Dijon, Burgundy
+1 DEAT
+2 _UID 614debb0f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF108
+2 DATE 5 JAN 1477
+2 PLAC Nancy, Lorraine
+1 FAMS @F27@
+0 @I55@ INDI
+1 RIN MH:I55
+1 _UID 614debc23c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:16:45 GMT+-0
+1 NAME Isabella of Bourbon //
+2 GIVN Isabella of Bourbon
+1 SEX F
+1 BIRT
+2 _UID 614debdd3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF109
+2 DATE ABT 1434
+1 DEAT
+2 _UID 614debddf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF110
+2 DATE 25 SEP 1465
+2 PLAC St. Michael's Abbey, Antwerp
+1 FAMS @F27@
+0 @I56@ INDI
+1 RIN MH:I56
+1 _UID 614decfc3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:23:08 GMT+-0
+1 NAME John II of Aragon //
+2 GIVN John II of Aragon
+1 SEX M
+1 BIRT
+2 _UID 614ded2a3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF112
+2 DATE 29 JUN 1398
+2 PLAC Medina del Campo
+1 DEAT
+2 _UID 614ded2af73091ec8df5ccd9ac53bb22
+2 RIN MH:IF113
+2 DATE 20 JAN 1479
+2 PLAC Barcelona
+1 FAMS @F28@
+0 @I57@ INDI
+1 RIN MH:I57
+1 _UID 614ded373c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:23:08 GMT+-0
+1 NAME Juana Enríquez //
+2 GIVN Juana Enríquez
+1 SEX F
+1 BIRT
+2 _UID 614ded5c3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF114
+2 DATE 1425
+2 PLAC Torrelobatón
+1 DEAT
+2 _UID 614ded5cf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF115
+2 DATE 13 FEB 1468
+2 PLAC Tarragona
+1 FAMS @F28@
+0 @I58@ INDI
+1 RIN MH:I58
+1 _UID 614deda93c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:25:53 GMT+-0
+1 NAME John II of Castile //
+2 GIVN John II of Castile
+1 SEX M
+1 BIRT
+2 _UID 614dedc73c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF117
+2 DATE 6 MAR 1405
+2 PLAC Toro, Zamora
+1 DEAT
+2 _UID 614dedc7f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF118
+2 DATE 20 JUL 1454
+2 PLAC Valladolid
+1 FAMS @F29@
+0 @I59@ INDI
+1 RIN MH:I59
+1 _UID 614dede23c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:25:53 GMT+-0
+1 NAME Isabella of Portugal //
+2 GIVN Isabella of Portugal
+1 SEX F
+1 BIRT
+2 _UID 614dee013c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF119
+2 DATE 1428
+1 DEAT
+2 _UID 614dee01f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF120
+2 DATE 15 AUG 1496
+2 PLAC Arévalo
+1 FAMS @F29@
+0 @I60@ INDI
+1 RIN MH:I60
+1 _UID 614deeda3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:31:16 GMT+-0
+1 NAME Edward, King of Portugal //
+2 GIVN Edward, King of Portugal
+1 SEX M
+1 BIRT
+2 _UID 614def053c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF121
+2 DATE 31 OCT 1391
+2 PLAC Viseu, Portugal
+1 DEAT
+2 _UID 614def05f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF122
+2 DATE 9 SEP 1438
+2 PLAC Tomar, Portugal
+1 FAMS @F30@
+0 @I61@ INDI
+1 RIN MH:I61
+1 _UID 614def193c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:31:16 GMT+-0
+1 NAME Eleanor of Aragon //
+2 GIVN Eleanor of Aragon
+1 SEX F
+1 BIRT
+2 _UID 614def443c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF123
+2 DATE 2 MAY 1402
+2 PLAC Medina del Campo
+1 DEAT
+2 _UID 614def44f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF124
+2 DATE 19 FEB 1445
+2 PLAC Toledo, Castile
+1 FAMS @F30@
+0 @I62@ INDI
+1 RIN MH:I62
+1 _UID 614def703c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:33:47 GMT+-0
+1 NAME John, Constable of Portugal //
+2 GIVN John, Constable of Portugal
+1 SEX M
+1 BIRT
+2 _UID 614def9d3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF125
+2 DATE 13 JAN 1400
+2 PLAC Santarém, Portugal
+1 DEAT
+2 _UID 614def9df73091ec8df5ccd9ac53bb22
+2 RIN MH:IF126
+2 DATE 18 OCT 1442
+2 PLAC Alcácer do Sal, Portugal
+1 FAMS @F31@
+0 @I63@ INDI
+1 RIN MH:I63
+1 _UID 614defad3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:33:47 GMT+-0
+1 NAME Isabel of Barcelos //
+2 GIVN Isabel of Barcelos
+1 SEX F
+1 BIRT
+2 _UID 614defdb3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF127
+2 DATE OCT 1402
+2 PLAC Barcelos
+1 DEAT
+2 _UID 614defdbf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF128
+2 DATE 26 OCT 1466
+2 PLAC Arévalo
+1 FAMS @F31@
+0 @I64@ INDI
+1 RIN MH:I64
+1 _UID 614df02f3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:37:47 GMT+-0
+1 NAME Władysław II Jagiełło //
+2 GIVN Władysław II Jagiełło
+1 SEX M
+1 BIRT
+2 _UID 614df06e3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF130
+2 DATE AFT 1352
+2 PLAC Vilnius, Grand Duchy of Lithuania
+1 DEAT
+2 _UID 614df06ef73091ec8df5ccd9ac53bb22
+2 RIN MH:IF131
+2 DATE 1 JUN 1434
+2 PLAC Gródek Jagielloński, Kingdom of Poland
+1 FAMS @F32@
+0 @I65@ INDI
+1 RIN MH:I65
+1 _UID 614df0973c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:37:33 GMT+-0
+1 NAME Sophia of Halshany //
+2 GIVN Sophia of Halshany
+1 SEX F
+1 BIRT
+2 _UID 614df0b13c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF132
+2 DATE ABT 1405
+1 DEAT
+2 _UID 614df0b1f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF133
+2 DATE 21 SEP 1461
+2 PLAC Kraków, Kingdom of Poland
+1 FAMS @F32@
+0 @I66@ INDI
+1 RIN MH:I66
+1 _UID 614df0f83c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:40:09 GMT+-0
+1 NAME Albert II of Germany //
+2 GIVN Albert II of Germany
+1 SEX M
+1 BIRT
+2 _UID 614df11b3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF134
+2 DATE 10 AUG 1397
+2 PLAC Vienna, Austria
+1 DEAT
+2 _UID 614df11bf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF135
+2 DATE 27 OCT 1439
+2 PLAC Neszmély, Hungary
+1 FAMS @F33@
+0 @I67@ INDI
+1 RIN MH:I67
+1 _UID 614df1303c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:40:09 GMT+-0
+1 NAME Elizabeth of Luxembourg //
+2 GIVN Elizabeth of Luxembourg
+1 SEX F
+1 BIRT
+2 _UID 614df1593c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF136
+2 DATE 7 OCT 1409
+2 PLAC Visegrád, Hungary
+1 DEAT
+2 _UID 614df159f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF137
+2 DATE 19 DEC 1442
+2 PLAC Győr, Hungary
+1 FAMS @F33@
+0 @I68@ INDI
+1 RIN MH:I68
+1 _UID 614df1da3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:43:42 GMT+-0
+1 NAME Gaston IV, Count of Foix //
+2 GIVN Gaston IV, Count of Foix
+1 SEX M
+1 BIRT
+2 _UID 614df1f53c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF140
+2 DATE 27 NOV 1422
+1 DEAT
+2 _UID 614df1f5f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF141
+2 DATE 25 or 28 July 1472
+2 PLAC Roncevalles
+1 FAMS @F34@
+0 @I69@ INDI
+1 RIN MH:I69
+1 _UID 614df20e3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:43:42 GMT+-0
+1 NAME Eleanor of Navarre //
+2 GIVN Eleanor of Navarre
+1 SEX F
+1 BIRT
+2 _UID 614df22e3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF142
+2 DATE 2 FEB 1426
+2 PLAC Olite, Navarre
+1 DEAT
+2 _UID 614df22ef73091ec8df5ccd9ac53bb22
+2 RIN MH:IF143
+2 DATE 12 FEB 1479
+2 PLAC Tudela, Navarre
+1 FAMS @F34@
+0 @I70@ INDI
+1 RIN MH:I70
+1 _UID 614df2423c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:45:03 GMT+-0
+1 NAME John de Foix, 1st Earl of Kendal //
+2 GIVN John de Foix, 1st Earl of Kendal
+1 SEX M
+1 BIRT
+2 _UID 614df25c3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF144
+2 DATE ABT 1415
+1 DEAT
+2 _UID 614df25cf73091ec8df5ccd9ac53bb22
+2 RIN MH:IF145
+2 DATE 1485
+2 PLAC Castelnau-de-Médoc
+1 FAMS @F35@
+0 @I71@ INDI
+1 RIN MH:I71
+1 _UID 614df2663c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:45:03 GMT+-0
+1 NAME Margaret Kerdeston //
+2 GIVN Margaret Kerdeston
+1 SEX F
+1 BIRT
+2 _UID 614df27f3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF146
+2 DATE AFT 1425
+1 DEAT
+2 _UID 614df27ff73091ec8df5ccd9ac53bb22
+2 RIN MH:IF147
+2 DATE AFT 5 DEC 1485
+1 FAMS @F35@
+0 @I72@ INDI
+1 RIN MH:I72
+1 _UID 614df2ed3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:47:59 GMT+-0
+1 NAME Albert III, Duke of Bavaria //
+2 GIVN Albert III, Duke of Bavaria
+1 SEX M
+1 BIRT
+2 _UID 614df30d3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF149
+2 DATE 27 MAR 1401
+2 PLAC Wolfratshausen
+1 DEAT
+2 _UID 614df30df73091ec8df5ccd9ac53bb22
+2 RIN MH:IF150
+2 DATE 29 FEB 1460
+2 PLAC Munich
+1 FAMS @F36@
+0 @I73@ INDI
+1 RIN MH:I73
+1 _UID 614df31e3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 17:02:42 GMT+-0
+1 NAME Anna of Brunswick //
+2 GIVN Anna of Brunswick
+1 SEX F
+1 BIRT
+2 _UID 614df32f3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF151
+2 DATE 1414
+1 DEAT
+2 _UID 614df32ff73091ec8df5ccd9ac53bb22
+2 RIN MH:IF152
+2 DATE 14 APR 1474
+1 FAMS @F36@
+0 @I74@ INDI
+1 RIN MH:I74
+1 _UID 614df3be3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:51:38 GMT+-0
+1 NAME Christoph I, Margrave of Baden-Baden //
+2 GIVN Christoph I, Margrave of Baden-Baden
+1 SEX M
+1 BIRT
+2 _UID 614df3e73c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF154
+2 DATE 13 NOV 1453
+2 PLAC Baden-Baden
+1 DEAT
+2 _UID 614df3e7f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF155
+2 DATE 19 APR 1527
+2 PLAC Baden-Baden
+1 FAMS @F37@
+0 @I75@ INDI
+1 RIN MH:I75
+1 _UID 614df3f33c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:51:38 GMT+-0
+1 NAME Ottilie of Katzenelnbogen //
+2 GIVN Ottilie of Katzenelnbogen
+1 SEX F
+1 BIRT
+2 _UID 614df40a3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF156
+2 DATE ABT 1451
+2 PLAC Baden-Baden
+1 DEAT
+2 _UID 614df40af73091ec8df5ccd9ac53bb22
+2 RIN MH:IF157
+2 DATE 15 AUG 1517
+1 FAMS @F37@
+0 @I76@ INDI
+1 RIN MH:I76
+1 _UID 614df41b3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:53:21 GMT+-0
+1 NAME Philip, Elector Palatine //
+2 GIVN Philip, Elector Palatine
+1 SEX M
+1 BIRT
+2 _UID 614df4383c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF158
+2 DATE 14 JUL 1448
+2 PLAC Heidelberg
+1 DEAT
+2 _UID 614df438f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF159
+2 DATE 28 FEB 1508
+2 PLAC Germersheim
+1 FAMS @F38@
+0 @I77@ INDI
+1 RIN MH:I77
+1 _UID 614df44b3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:53:21 GMT+-0
+1 NAME Margaret of Bavaria, Electress Palatine //
+2 GIVN Margaret of Bavaria, Electress Palatine
+1 SEX F
+1 BIRT
+2 _UID 614df4713c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF160
+2 DATE 7 NOV 1456
+2 PLAC Amberg
+1 DEAT
+2 _UID 614df471f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF161
+2 DATE 25 JAN 1501
+2 PLAC Heidelberg
+1 FAMS @F38@
+0 @I78@ INDI
+1 RIN MH:I78
+1 _UID 614df4c83c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:56:10 GMT+-0
+1 NAME René II, Duke of Lorraine //
+2 GIVN René II, Duke of Lorraine
+1 SEX M
+1 BIRT
+2 _UID 614df4e63c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF163
+2 DATE 2 MAY 1451
+2 PLAC Angers
+1 DEAT
+2 _UID 614df4e6f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF164
+2 DATE 10 DEC 1508
+2 PLAC Fains
+1 FAMS @F39@
+0 @I79@ INDI
+1 RIN MH:I79
+1 _UID 614df4f93c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:56:10 GMT+-0
+1 NAME Philippa of Guelders //
+2 GIVN Philippa of Guelders
+1 SEX F
+1 BIRT
+2 _UID 614df51a3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF165
+2 DATE 1462
+2 PLAC Brabant
+1 DEAT
+2 _UID 614df51af73091ec8df5ccd9ac53bb22
+2 RIN MH:IF166
+2 DATE 28 FEB 1547
+2 PLAC Convent of Poor Clares of Pont-à-Mousson
+1 FAMS @F39@
+0 @I80@ INDI
+1 RIN MH:I80
+1 _UID 614df53b3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:58:21 GMT+-0
+1 NAME Gilbert, Count of Montpensier //
+2 GIVN Gilbert, Count of Montpensier
+1 SEX M
+1 BIRT
+2 _UID 614df5523c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF167
+2 DATE 1443
+1 DEAT
+2 _UID 614df552f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF168
+2 DATE 15 OCT 1496
+2 PLAC Pozzuoli
+1 FAMS @F40@
+0 @I81@ INDI
+1 RIN MH:I81
+1 _UID 614df57d3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 16:58:21 GMT+-0
+1 NAME Clara Gonzaga //
+2 GIVN Clara Gonzaga
+1 SEX F
+1 BIRT
+2 _UID 614df59d3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF169
+2 DATE 1 JUL 1464
+2 PLAC Mantua, Italy
+1 DEAT
+2 _UID 614df59df73091ec8df5ccd9ac53bb22
+2 RIN MH:IF170
+2 DATE 2 JUN 1503
+2 PLAC France
+1 FAMS @F40@
+0 @I82@ INDI
+1 RIN MH:I82
+1 _UID 614df5fa3c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 17:01:33 GMT+-0
+1 NAME John, King of Denmark //
+2 GIVN John, King of Denmark
+1 SEX M
+1 BIRT
+2 _UID 614df6253c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF171
+2 DATE 2 FEB 1455
+2 PLAC Aalborghus Castle, Aalborg
+1 DEAT
+2 _UID 614df625f73091ec8df5ccd9ac53bb22
+2 RIN MH:IF172
+2 DATE 20 FEB 1513
+2 PLAC Aalborghus Castle, Aalborg
+1 FAMS @F41@
+0 @I83@ INDI
+1 RIN MH:I83
+1 _UID 614df6323c6c41ec8df5ccd9ac53bb22
+1 _UPD 24 SEP 2021 17:01:33 GMT+-0
+1 NAME Christina of Saxony //
+2 GIVN Christina of Saxony
+1 SEX F
+1 BIRT
+2 _UID 614df65d3c6c41ec8df5ccd9ac53bb22
+2 RIN MH:IF173
+2 DATE 25 DEC 1461
+2 PLAC Torgau, Saxony
+1 DEAT
+2 _UID 614df65df73091ec8df5ccd9ac53bb22
+2 RIN MH:IF174
+2 DATE 8 DEC 1521
+2 PLAC Odense, Denmark
+1 FAMS @F41@
+0 @I84@ INDI
+1 RIN MH:I84
+1 _UID 6151dc031dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 15:59:06 GMT+-0
+1 NAME Ferdinand of Bavaria //
+2 GIVN Ferdinand of Bavaria
+1 SEX M
+1 BIRT
+2 _UID 6151dc3a1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF175
+2 DATE 20 JAN 1550
+1 DEAT
+2 _UID 6151dc3ad68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF176
+2 DATE 30 JAN 1608
+1 FAMC @F6@
+0 @I85@ INDI
+1 RIN MH:I85
+1 _UID 6151dc451dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:00:01 GMT+-0
+1 NAME Maximiliana Maria of Bavaria //
+2 GIVN Maximiliana Maria of Bavaria
+1 SEX F
+1 BIRT
+2 _UID 6151dc711dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF177
+2 DATE 4 JUL 1552
+2 PLAC Munich
+1 DEAT
+2 _UID 6151dc71d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF178
+2 DATE 11 JUL 1614
+2 PLAC Munich
+1 FAMC @F6@
+0 @I86@ INDI
+1 RIN MH:I86
+1 _UID 6151dc821dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:00:55 GMT+-0
+1 NAME Ernest of Bavaria //
+2 GIVN Ernest of Bavaria
+1 SEX M
+1 BIRT
+2 _UID 6151dca71dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF179
+2 DATE 17 DEC 1554
+2 PLAC Munich
+1 DEAT
+2 _UID 6151dca7d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF180
+2 DATE 17 FEB 1612
+2 PLAC Arnsberg, Archbishopric of Cologne
+1 FAMC @F6@
+0 @I88@ INDI
+1 RIN MH:I88
+1 _UID 6151ddac1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:05:38 GMT+-0
+1 NAME Infante Carlos of Spain //
+2 GIVN Infante Carlos of Spain
+1 SEX M
+1 BIRT
+2 _UID 6151ddc21dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF183
+2 DATE 15 SEP 1607
+1 DEAT
+2 _UID 6151ddc2d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF184
+2 DATE 30 JUL 1632
+1 FAMC @F11@
+0 @I89@ INDI
+1 RIN MH:I89
+1 _UID 6151ddd31dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:06:46 GMT+-0
+1 NAME Cardinal-Infante Ferdinand of Austria //
+2 GIVN Cardinal-Infante Ferdinand of Austria
+1 SEX M
+1 BIRT
+2 _UID 6151de061dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF185
+2 DATE 16 MAY 1609
+2 PLAC San Lorenzo de El Escorial, Kingdom of Spain
+1 DEAT
+2 _UID 6151de06d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF186
+2 DATE 9 NOV 1641
+2 PLAC Brussels
+1 FAMC @F11@
+0 @I90@ INDI
+1 RIN MH:I90
+1 _UID 6151de711dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:08:48 GMT+-0
+1 NAME Anne of Austria, Queen of Poland //
+2 GIVN Anne of Austria, Queen of Poland
+1 SEX F
+1 BIRT
+2 _UID 6151de801dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF187
+2 DATE 16 AUG 1573
+1 DEAT
+2 _UID 6151de80d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF188
+2 DATE 10 FEB 1598
+1 FAMC @F9@
+0 @I91@ INDI
+1 RIN MH:I91
+1 _UID 6151de8d1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:09:17 GMT+-0
+1 NAME Maria Christina, Princess of Transylvania //
+2 GIVN Maria Christina, Princess of Transylvania
+1 SEX F
+1 BIRT
+2 _UID 6151de9d1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF189
+2 DATE 10 NOV 1574
+1 DEAT
+2 _UID 6151de9dd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF190
+2 DATE 6 APR 1621
+1 FAMC @F9@
+0 @I92@ INDI
+1 RIN MH:I92
+1 _UID 6151df0f1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:11:47 GMT+-0
+1 NAME Catherine Renata of Austria //
+2 GIVN Catherine Renata of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151df231dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF191
+2 DATE 4 JAN 1576
+1 DEAT
+2 _UID 6151df23d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF192
+2 DATE 29 JUN 1599
+1 FAMC @F9@
+0 @I93@ INDI
+1 RIN MH:I93
+1 _UID 6151df401dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:12:24 GMT+-0
+1 NAME Elisabeth //
+2 GIVN Elisabeth
+1 SEX F
+1 BIRT
+2 _UID 6151df581dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF193
+2 DATE 13 MAR 1577
+1 DEAT
+2 _UID 6151df58d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF194
+2 DATE 29 JAN 1586
+1 FAMC @F9@
+0 @I94@ INDI
+1 RIN MH:I94
+1 _UID 6151df761dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:13:09 GMT+-0
+1 NAME Gregoria Maximiliana of Austria //
+2 GIVN Gregoria Maximiliana of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151df851dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF195
+2 DATE 22 MAY 1581
+1 DEAT
+2 _UID 6151df85d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF196
+2 DATE 20 SEP 1597
+1 FAMC @F9@
+0 @I95@ INDI
+1 RIN MH:I95
+1 _UID 6151dfab1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:14:10 GMT+-0
+1 NAME Eleanor of Austria //
+2 GIVN Eleanor of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151dfc21dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF197
+2 DATE 25 SEP 1582
+1 DEAT
+2 _UID 6151dfc2d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF198
+2 DATE 28 JAN 1620
+1 FAMC @F9@
+0 @I96@ INDI
+1 RIN MH:I96
+1 _UID 6151dfd21dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:14:43 GMT+-0
+1 NAME Maximilian Ernest of Austria //
+2 GIVN Maximilian Ernest of Austria
+1 SEX M
+1 BIRT
+2 _UID 6151dfe31dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF199
+2 DATE 17 NOV 1583
+1 DEAT
+2 _UID 6151dfe3d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF200
+2 DATE 18 FEB 1616
+1 FAMC @F9@
+0 @I97@ INDI
+1 RIN MH:I97
+1 _UID 6151e0031dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:15:51 GMT+-0
+1 NAME Leopold V, Archduke of Austria //
+2 GIVN Leopold V, Archduke of Austria
+1 SEX M
+1 BIRT
+2 _UID 6151e0271dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF201
+2 DATE 9 OCT 1586
+1 DEAT
+2 _UID 6151e027d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF202
+2 DATE 13 SEP 1632
+1 FAMC @F9@
+0 @I98@ INDI
+1 RIN MH:I98
+1 _UID 6151e0301dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:16:20 GMT+-0
+1 NAME Constance of Austria //
+2 GIVN Constance of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e0441dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF203
+2 DATE 24 DEC 1588
+1 DEAT
+2 _UID 6151e044d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF204
+2 DATE 10 JUL 1631
+1 FAMC @F9@
+0 @I99@ INDI
+1 RIN MH:I99
+1 _UID 6151e0541dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:16:59 GMT+-0
+1 NAME Maria Maddalena of Austria //
+2 GIVN Maria Maddalena of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e06b1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF205
+2 DATE 7 OCT 1589
+1 DEAT
+2 _UID 6151e06bd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF206
+2 DATE 1 NOV 1631
+1 FAMC @F9@
+0 @I100@ INDI
+1 RIN MH:I100
+1 _UID 6151e0771dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:17:33 GMT+-0
+1 NAME Charles of Austria, Bishop of Wroclaw //
+2 GIVN Charles of Austria, Bishop of Wroclaw
+1 SEX M
+1 BIRT
+2 _UID 6151e08d1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF207
+2 DATE 7 AUG 1590
+1 DEAT
+2 _UID 6151e08dd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF208
+2 DATE 28 DEC 1624
+1 FAMC @F9@
+0 @I102@ INDI
+1 RIN MH:I102
+1 _UID 6151e1be1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:22:58 GMT+-0
+1 NAME Joanna of Austria, Princess of Portugal //
+2 GIVN Joanna of Austria, Princess of Portugal
+1 SEX F
+1 BIRT
+2 _UID 6151e1d21dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF211
+2 DATE 24 JUN 1535
+1 DEAT
+2 _UID 6151e1d2d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF212
+2 DATE 7 SEP 1573
+1 FAMC @F2@
+0 @I103@ INDI
+1 RIN MH:I103
+1 _UID 6151e28c1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:26:20 GMT+-0
+1 NAME Elizabeth //
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 _UID 6151e29c1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF213
+2 DATE 9 JUL 1526
+1 DEAT
+2 _UID 6151e29cd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF214
+2 DATE 15 JUN 1545
+1 FAMC @F4@
+0 @I104@ INDI
+1 RIN MH:I104
+1 _UID 6151e2c71dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:27:50 GMT+-0
+1 NAME Ferdinand II, Archduke of Austria //
+2 GIVN Ferdinand II, Archduke of Austria
+1 SEX M
+1 BIRT
+2 _UID 6151e2f61dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF215
+2 DATE 14 JUN 1529
+1 DEAT
+2 _UID 6151e2f6d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF216
+2 DATE 24 JAN 1595
+1 FAMC @F4@
+0 @I105@ INDI
+1 RIN MH:I105
+1 _UID 6151e3011dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:28:34 GMT+-0
+1 NAME Maria of Austria, Duchess of Jülich-Cleves-Berg //
+2 GIVN Maria of Austria, Duchess of Jülich-Cleves-Berg
+1 SEX F
+1 BIRT
+2 _UID 6151e3221dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF217
+2 DATE 15 MAY 1531
+1 DEAT
+2 _UID 6151e322d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF218
+2 DATE 11 DEC 1581
+1 FAMC @F4@
+0 @I106@ INDI
+1 RIN MH:I106
+1 _UID 6151e32a1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:29:08 GMT+-0
+1 NAME Magdalena of Austria //
+2 GIVN Magdalena of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e3441dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF219
+2 DATE 14 AUG 1532
+1 DEAT
+2 _UID 6151e344d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF220
+2 DATE 10 SEP 1590
+1 FAMC @F4@
+0 @I107@ INDI
+1 RIN MH:I107
+1 _UID 6151e3471dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:29:45 GMT+-0
+1 NAME Catherine of Austria, Queen of Poland //
+2 GIVN Catherine of Austria, Queen of Poland
+1 SEX F
+1 BIRT
+2 _UID 6151e3691dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF221
+2 DATE 15 SEP 1533
+1 DEAT
+2 _UID 6151e369d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF222
+2 DATE 28 FEB 1572
+1 FAMC @F4@
+0 @I108@ INDI
+1 RIN MH:I108
+1 _UID 6151e36c1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:30:13 GMT+-0
+1 NAME Eleanor of Austria //
+2 GIVN Eleanor of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e3851dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF223
+2 DATE 2 NOV 1534
+1 DEAT
+2 _UID 6151e385d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF224
+2 DATE 5 AUG 1594
+1 FAMC @F4@
+0 @I109@ INDI
+1 RIN MH:I109
+1 _UID 6151e38f1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:30:53 GMT+-0
+1 NAME Margaret of Austria //
+2 GIVN Margaret of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e3ad1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF225
+2 DATE 16 FEB 1536
+1 DEAT
+2 _UID 6151e3add68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF226
+2 DATE 12 MAR 1567
+1 FAMC @F4@
+0 @I110@ INDI
+1 RIN MH:I110
+1 _UID 6151e3b91dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:31:25 GMT+-0
+1 NAME Barbara of Austria //
+2 GIVN Barbara of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e3cd1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF227
+2 DATE 30 APR 1539
+1 DEAT
+2 _UID 6151e3cdd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF228
+2 DATE 19 SEP 1572
+1 FAMC @F4@
+0 @I111@ INDI
+1 RIN MH:I111
+1 _UID 6151e3db1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:31:57 GMT+-0
+1 NAME Helena of Austria //
+2 GIVN Helena of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e3ed1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF229
+2 DATE 7 JAN 1543
+1 DEAT
+2 _UID 6151e3edd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF230
+2 DATE 5 MAR 1574
+1 FAMC @F4@
+0 @I112@ INDI
+1 RIN MH:I112
+1 _UID 6151e3ef1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:32:27 GMT+-0
+1 NAME Joanna of Austria, Grand Duchess of Tuscany //
+2 GIVN Joanna of Austria, Grand Duchess of Tuscany
+1 SEX F
+1 BIRT
+2 _UID 6151e40b1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF231
+2 DATE 24 JAN 1547
+1 DEAT
+2 _UID 6151e40bd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF232
+2 DATE 10 APR 1578
+1 FAMC @F4@
+0 @I113@ INDI
+1 RIN MH:I113
+1 _UID 6151e5351dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:38:02 GMT+-0
+1 NAME Eleanor of Austria //
+2 GIVN Eleanor of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151e55a1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF233
+2 DATE 15 NOV 1498
+1 DEAT
+2 _UID 6151e55ad68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF234
+2 DATE 25 FEB 1558
+1 FAMC @F1@
+0 @I114@ INDI
+1 RIN MH:I114
+1 _UID 6151e5991dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:39:21 GMT+-0
+1 NAME Mary of Hungary //
+2 GIVN Mary of Hungary
+1 SEX F
+1 BIRT
+2 _UID 6151e5a91dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF235
+2 DATE 15 SEP 1505
+1 DEAT
+2 _UID 6151e5a9d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF236
+2 DATE 18 OCT 1558
+1 FAMC @F1@
+0 @I115@ INDI
+1 RIN MH:I115
+1 _UID 6151e5c21dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:40:10 GMT+-0
+1 NAME Catherine of Austria, Queen of Portugal //
+2 GIVN Catherine of Austria, Queen of Portugal
+1 SEX F
+1 BIRT
+2 _UID 6151e5da1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF237
+2 DATE 14 JAN 1507
+1 DEAT
+2 _UID 6151e5dad68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF238
+2 DATE 12 FEB 1578
+1 FAMC @F1@
+0 @I116@ INDI
+1 RIN MH:I116
+1 _UID 6151e6211dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:41:39 GMT+-0
+1 NAME Isabella of Aragon, Queen of Portugal //
+2 GIVN Isabella of Aragon, Queen of Portugal
+1 SEX F
+1 BIRT
+2 _UID 6151e6331dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF239
+2 DATE 2 OCT 1470
+1 DEAT
+2 _UID 6151e633d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF240
+2 DATE 23 AUG 1498
+1 FAMC @F20@
+0 @I117@ INDI
+1 RIN MH:I117
+1 _UID 6151e6441dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:42:13 GMT+-0
+1 NAME John, Prince of Asturias //
+2 GIVN John, Prince of Asturias
+1 SEX M
+1 BIRT
+2 _UID 6151e6551dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF241
+2 DATE 30 JUN 1478
+1 DEAT
+2 _UID 6151e655d68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF242
+2 DATE 4 OCT 1497
+1 FAMC @F20@
+0 @I118@ INDI
+1 RIN MH:I118
+1 _UID 6151e67c1dde91ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 16:43:11 GMT+-0
+1 NAME Catherine of Aragon //
+2 GIVN Catherine of Aragon
+1 SEX F
+1 BIRT
+2 _UID 6151e68f1dde91ec8df8ccd9ac53bb1f
+2 RIN MH:IF243
+2 DATE 16 DEC 1485
+1 DEAT
+2 _UID 6151e68fd68241ec8df8ccd9ac53bb1f
+2 RIN MH:IF244
+2 DATE 7 JAN 1536
+1 FAMC @F20@
+0 @I119@ INDI
+1 RIN MH:I119
+1 _UID 6151ea54bd32e1ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 17:00:16 GMT+-0
+1 NAME Margaret Theresa of Spain //
+2 GIVN Margaret Theresa of Spain
+1 SEX F
+1 BIRT
+2 _UID 6151ea90bd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF245
+2 DATE 12 JUL 1651
+2 PLAC Royal Alcazar, Madrid
+1 DEAT
+2 _UID 6151ea908052c1ec8df8ccd9ac53bb1f
+2 RIN MH:IF246
+2 DATE 12 MAR 1673
+2 PLAC Hofburg Palace, Vienna
+1 FAMC @F14@
+0 @I120@ INDI
+1 RIN MH:I120
+1 _UID 6151eab8bd32e1ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 17:01:41 GMT+-0
+1 NAME Philip Prospero, Prince of Asturias //
+2 GIVN Philip Prospero, Prince of Asturias
+1 SEX M
+1 BIRT
+2 _UID 6151eacabd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF247
+2 DATE 28 NOV 1657
+2 PLAC Royal Alcázar, Madrid
+1 DEAT
+2 _UID 6151ead7bd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF248
+2 DATE 1 NOV 1661
+2 PLAC Royal Alcázar, Madrid
+1 FAMC @F14@
+0 @I121@ INDI
+1 RIN MH:I121
+1 _UID 6151eb81bd32e1ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 17:04:40 GMT+-0
+1 NAME Ferdinand IV, King of the Romans //
+2 GIVN Ferdinand IV, King of the Romans
+1 SEX M
+1 BIRT
+2 _UID 6151eb98bd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF249
+2 DATE 8 SEP 1633
+1 DEAT
+2 _UID 6151eb988052c1ec8df8ccd9ac53bb1f
+2 RIN MH:IF250
+2 DATE 9 JUL 1654
+1 FAMC @F13@
+0 @I122@ INDI
+1 RIN MH:I122
+1 _UID 6151ebc8bd32e1ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 17:05:57 GMT+-0
+1 NAME Philip August of Austria //
+2 GIVN Philip August of Austria
+1 SEX M
+1 BIRT
+2 _UID 6151ebe5bd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF251
+2 DATE 15 JUL 1637
+1 DEAT
+2 _UID 6151ebe58052c1ec8df8ccd9ac53bb1f
+2 RIN MH:IF252
+2 DATE 22 JUN 1639
+1 FAMC @F13@
+0 @I123@ INDI
+1 RIN MH:I123
+1 _UID 6151ebf8bd32e1ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 17:06:31 GMT+-0
+1 NAME Maximilian Thomas of Austria //
+2 GIVN Maximilian Thomas of Austria
+1 SEX M
+1 BIRT
+2 _UID 6151ec07bd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF253
+2 DATE 21 DEC 1638
+1 DEAT
+2 _UID 6151ec078052c1ec8df8ccd9ac53bb1f
+2 RIN MH:IF254
+2 DATE 29 JUN 1639
+1 FAMC @F13@
+0 @I124@ INDI
+1 RIN MH:I124
+1 _UID 6151ec13bd32e1ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 17:07:06 GMT+-0
+1 NAME Leopold I, Holy Roman Emperor //
+2 GIVN Leopold I, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 6151ec2abd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF255
+2 DATE 9 JUN 1640
+1 DEAT
+2 _UID 6151ec2a8052c1ec8df8ccd9ac53bb1f
+2 RIN MH:IF256
+2 DATE 5 MAY 1705
+1 FAMC @F13@
+0 @I125@ INDI
+1 RIN MH:I125
+1 _UID 6151ec47bd32e1ec8df8ccd9ac53bb1f
+1 _UPD 27 SEP 2021 17:07:56 GMT+-0
+1 NAME Maria of Austria //
+2 GIVN Maria of Austria
+1 SEX F
+1 BIRT
+2 _UID 6151ec54bd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF257
+2 DATE 13 MAY 1646
+1 DEAT
+2 _UID 6151ec5bbd32e1ec8df8ccd9ac53bb1f
+2 RIN MH:IF258
+1 FAMC @F13@
+0 @I126@ INDI
+1 RIN MH:I126
+1 _UID 5D2CA2983F4671E99D3A705A0F8D9AAA232A
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Jeanne d'Albret //
+2 GIVN Jeanne d'Albret
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3b27341ec8e43ccd9ac53bb22
+2 RIN MH:IF259
+2 DATE 16 NOV 1528
+1 DEAT
+2 _UID 624ea8b3792f91ec8e43ccd9ac53bb22
+2 RIN MH:IF260
+2 DATE 9 JUN 1572
+1 FAMS @F53@
+1 FAMC @F91@
+0 @I127@ INDI
+1 RIN MH:I127
+1 _UID 5D2CA2985A5FC1E99D3A705A0F8D9AAAA7A1
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Louis XIII //
+2 GIVN Louis XIII
+2 NSFX King of France
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3a82b31ec8e43ccd9ac53bb22
+2 RIN MH:IF261
+2 DATE 27 SEP 1601
+2 PLAC Fontainebleau, France
+1 DEAT
+2 _UID 624ea8b36377e1ec8e43ccd9ac53bb22
+2 RIN MH:IF262
+2 DATE 14 MAY 1643
+2 PLAC Germain-en-Laye, France
+1 BURI
+2 _UID 624ea8b3922151ec8e43ccd9ac53bb22
+2 RIN MH:IF263
+2 PLAC St. Denis, France
+1 TITL King of France
+2 _UID 624ea8b3597d81ec8e43ccd9ac53bb22
+2 RIN MH:IF264
+1 FAMS @F61@
+1 FAMC @F45@
+0 @I128@ INDI
+1 RIN MH:I128
+1 _UID 5D2CA298589601E99D3A705A0F8D9AAA1C66
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Joanna of Austria //
+2 GIVN Joanna of Austria
+2 NSFX Arch Duchess
+1 SEX F
+1 BIRT
+2 _UID 624ea8b33f3471ec8e43ccd9ac53bb22
+2 RIN MH:IF265
+2 DATE 24 JAN 1547
+1 DEAT
+2 _UID 624ea8b3f468a1ec8e43ccd9ac53bb22
+2 RIN MH:IF266
+2 DATE 11 APR 1578
+1 TITL Arch Duchess
+2 _UID 624ea8b3e96d91ec8e43ccd9ac53bb22
+2 RIN MH:IF267
+1 FAMS @F59@
+1 FAMC @F4@
+0 @I129@ INDI
+1 RIN MH:I129
+1 _UID 5D2CA2987F4931E99D3A705A0F8D9AAA26CB
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Francesco I //
+2 GIVN Francesco I
+2 NSFX Grand Duke
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3a4a531ec8e43ccd9ac53bb22
+2 RIN MH:IF268
+2 DATE 25 MAR 1541
+1 DEAT
+2 _UID 624ea8b3d805d1ec8e43ccd9ac53bb22
+2 RIN MH:IF269
+2 DATE 19 OCT 1587
+1 TITL Grand Duke
+2 _UID 624ea8b3135901ec8e43ccd9ac53bb22
+2 RIN MH:IF270
+1 FAMS @F59@
+1 FAMC @F89@
+0 @I130@ INDI
+1 RIN MH:I130
+1 _UID 5D2CA298BD6E61E99D3A705A0F8D9AAAB92A
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME James I //
+2 GIVN James I
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3363941ec8e43ccd9ac53bb22
+2 RIN MH:IF271
+2 DATE 19 JUN 1566
+2 PLAC Edinburgh Castle, Scotland
+1 DEAT
+2 _UID 624ea8b3fd6591ec8e43ccd9ac53bb22
+2 RIN MH:IF272
+2 DATE 27 MAR 1625
+2 PLAC Theobalds Park, Hertfordshire, Herts, England
+1 BURI
+2 _UID 624ea8b3e060a1ec8e43ccd9ac53bb22
+2 RIN MH:IF273
+2 PLAC Westminster, Abbey, London, England
+1 TITL King of England
+2 _UID 624ea8b32b3c71ec8e43ccd9ac53bb22
+2 RIN MH:IF274
+1 FAMS @F42@
+1 FAMC @F54@
+0 @I131@ INDI
+1 RIN MH:I131
+1 _UID 5D2CA298792981E99D3A705A0F8D9AAA5043
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Anne of Denmark //
+2 GIVN Anne of Denmark
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3813791ec8e43ccd9ac53bb22
+2 RIN MH:IF275
+2 DATE 12 DEC 1574
+2 PLAC Skanderborg, Castle
+1 DEAT
+2 _UID 624ea8b34a6b41ec8e43ccd9ac53bb22
+2 RIN MH:IF276
+2 DATE 2 MAR 1619
+2 PLAC Hampton Court, Palace
+1 BURI
+2 _UID 624ea8b3ccff31ec8e43ccd9ac53bb22
+2 RIN MH:IF277
+2 PLAC Westminster, Abbey, London, England
+1 FAMS @F42@
+1 FAMC @F43@
+0 @I132@ INDI
+1 RIN MH:I132
+1 _UID 5D2CA29889DAC1E99D3A705A0F8D9AAA511E
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Charles I //
+2 GIVN Charles I
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3dd7401ec8e43ccd9ac53bb22
+2 RIN MH:IF278
+2 DATE 19 NOV 1600
+2 PLAC Dunfermline, Scotland
+1 DEAT
+2 _UID 624ea8b35be071ec8e43ccd9ac53bb22
+2 RIN MH:IF279
+2 DATE 30 JAN 1649
+2 PLAC Whitehall Palace, England
+1 BURI
+2 _UID 624ea8b3274091ec8e43ccd9ac53bb22
+2 RIN MH:IF280
+2 PLAC St. George's, Chapel, Windsor, England
+1 TITL King of England
+2 _UID 624ea8b3ec1c41ec8e43ccd9ac53bb22
+2 RIN MH:IF281
+1 FAMS @F44@
+1 FAMC @F42@
+0 @I133@ INDI
+1 RIN MH:I133
+1 _UID 5D2CA2981D50B1E99D3A705A0F8D9AAA4B80
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Frederick II //
+2 GIVN Frederick II
+2 NSFX King
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3aceb71ec8e43ccd9ac53bb22
+2 RIN MH:IF282
+2 DATE 1 JUL 1534
+2 PLAC Haderslevhus
+1 DEAT
+2 _UID 624ea8b367b7a1ec8e43ccd9ac53bb22
+2 RIN MH:IF283
+2 DATE 4 APR 1588
+2 PLAC Antvorslev, Castle
+1 BURI
+2 _UID 624ea8b3e123d1ec8e43ccd9ac53bb22
+2 RIN MH:IF284
+2 PLAC Roskilde, Cathedral, Denmark
+1 TITL King
+2 _UID 624ea8b32a7f01ec8e43ccd9ac53bb22
+2 RIN MH:IF285
+1 FAMS @F43@
+1 FAMC @F70@
+0 @I134@ INDI
+1 RIN MH:I134
+1 _UID 5D2CA298D0C3D1E99D3A705A0F8D9AAA9115
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Sophia of Mecklenburg- Gustrow //
+2 GIVN Sophia of Mecklenburg- Gustrow
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3107561ec8e43ccd9ac53bb22
+2 RIN MH:IF286
+2 DATE 4 SEP 1557
+2 PLAC Wismar
+1 DEAT
+2 _UID 624ea8b3f0a8e1ec8e43ccd9ac53bb22
+2 RIN MH:IF287
+2 DATE 4 OCT 1631
+2 PLAC Nykobing
+1 FAMS @F43@
+1 FAMC @F88@
+0 @I135@ INDI
+1 RIN MH:I135
+1 _UID 5D2CA298182351E99D3A705A0F8D9AAAB995
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Henrietta Maria of France //
+2 GIVN Henrietta Maria of France
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3bd6041ec8e43ccd9ac53bb22
+2 RIN MH:IF288
+2 DATE 25 NOV 1609
+2 PLAC Hotel du Louvre, Paris, France
+1 DEAT
+2 _UID 624ea8b3a06571ec8e43ccd9ac53bb22
+2 RIN MH:IF289
+2 DATE 10 SEP 1669
+2 PLAC Colombe, Near Paris, France
+1 BURI
+2 _UID 624ea8b36b39a1ec8e43ccd9ac53bb22
+2 RIN MH:IF290
+2 PLAC St. Denis
+1 FAMS @F44@
+1 FAMC @F45@
+0 @I136@ INDI
+1 RIN MH:I136
+1 _UID 5D2CA298238CC1E99D3A705A0F8D9AAA9DFC
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Henry IV //
+2 GIVN Henry IV
+2 NSFX King of France
+1 SEX M
+1 BIRT
+2 _UID 624ea8b36922a1ec8e43ccd9ac53bb22
+2 RIN MH:IF291
+2 DATE 13 DEC 1553
+2 PLAC Pau, Navarre, France
+1 DEAT
+2 _UID 624ea8b3cdcef1ec8e43ccd9ac53bb22
+2 RIN MH:IF292
+2 DATE 14 MAY 1610
+2 PLAC Paris, France
+1 BURI
+2 _UID 624ea8b34b5a81ec8e43ccd9ac53bb22
+2 RIN MH:IF293
+2 PLAC St. Denis, France
+1 TITL King of France
+2 _UID 624ea8b3800651ec8e43ccd9ac53bb22
+2 RIN MH:IF294
+1 FAMS @F45@
+1 FAMC @F53@
+0 @I137@ INDI
+1 RIN MH:I137
+1 _UID 5D2CA298545CF1E99D3A705A0F8D9AAACE18
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Marie de' Medici //
+2 GIVN Marie de' Medici
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3565fb1ec8e43ccd9ac53bb22
+2 RIN MH:IF295
+2 DATE 26 APR 1575
+1 DEAT
+2 _UID 624ea8b3d0cbc1ec8e43ccd9ac53bb22
+2 RIN MH:IF296
+2 DATE 3 JUL 1642
+1 FAMS @F45@
+1 FAMC @F59@
+0 @I138@ INDI
+1 RIN MH:I138
+1 _UID 5D2CA298C167B1E99D3A705A0F8D9AAA062D
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Henrietta of England //
+2 GIVN Henrietta of England
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3fca6b1ec8e43ccd9ac53bb22
+2 RIN MH:IF297
+2 DATE 16 JUN 1644
+2 PLAC Bedford House, Exeter, England
+1 DEAT
+2 _UID 624ea8b37a32c1ec8e43ccd9ac53bb22
+2 RIN MH:IF298
+2 DATE 30 JUN 1670
+2 PLAC St. Cloud
+1 FAMS @F46@
+1 FAMC @F44@
+0 @I139@ INDI
+1 RIN MH:I139
+1 _UID 5D2CA298763481E99D3A705A0F8D9AAA5898
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Philippe I //
+2 GIVN Philippe I
+2 NSFX Duke
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3358f81ec8e43ccd9ac53bb22
+2 RIN MH:IF299
+2 DATE 21 SEP 1640
+1 DEAT
+2 _UID 624ea8b3b31bf1ec8e43ccd9ac53bb22
+2 RIN MH:IF300
+2 DATE 9 JUN 1701
+1 TITL Duke
+2 _UID 624ea8b3784721ec8e43ccd9ac53bb22
+2 RIN MH:IF301
+1 FAMS @F46@
+1 FAMC @F61@
+0 @I140@ INDI
+1 RIN MH:I140
+1 _UID 5D2CA298976591E99D3A705A0F8D9AAABADF
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Henry VII /Tudor/
+2 GIVN Henry VII
+2 SURN Tudor
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 _UID 624ea8b31cb4a1ec8e43ccd9ac53bb22
+2 RIN MH:IF302
+2 DATE 28 JAN 1457
+2 PLAC Pembroke Castle, Pembrokeshire, England
+1 DEAT
+2 _UID 624ea8b31b19c1ec8e43ccd9ac53bb22
+2 RIN MH:IF303
+2 DATE 21 APR 1509
+2 PLAC Richmond Palace, Richmond Surrey, England
+1 BURI
+2 _UID 624ea8b3caed41ec8e43ccd9ac53bb22
+2 RIN MH:IF304
+2 PLAC Henry VII Chapel, Westminster, Abbey, England
+1 TITL King of England
+2 _UID 624ea8b34c7931ec8e43ccd9ac53bb22
+2 RIN MH:IF305
+1 FAMS @F47@
+1 FAMC @F57@
+0 @I141@ INDI
+1 RIN MH:I141
+1 _UID 5D2CA298254541E99D3A705A0F8D9AAAD807
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Elizabeth of York //
+2 GIVN Elizabeth of York
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3767351ec8e43ccd9ac53bb22
+2 RIN MH:IF306
+2 DATE 11 FEB 1466
+2 PLAC Westminster, Palace, London, England
+1 DEAT
+2 _UID 624ea8b3bd2f81ec8e43ccd9ac53bb22
+2 RIN MH:IF307
+2 DATE 11 FEB 1503
+2 PLAC Tower of London, London, England
+1 BURI
+2 _UID 624ea8b35df201ec8e43ccd9ac53bb22
+2 RIN MH:IF308
+2 PLAC Henry VII Chapel, Westminster, Abbey, London
+1 FAMS @F47@
+1 FAMC @F52@
+0 @I142@ INDI
+1 RIN MH:I142
+1 _UID 5D2CA298EB6A71E99D3A705A0F8D9AAAF3C6
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Margaret /Tudor/
+2 GIVN Margaret
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3abc8c1ec8e43ccd9ac53bb22
+2 RIN MH:IF309
+2 DATE 28 NOV 1489
+2 PLAC Westminster, Palace, London, England
+1 DEAT
+2 _UID 624ea8b3609411ec8e43ccd9ac53bb22
+2 RIN MH:IF310
+2 DATE 18 OCT 1541
+2 PLAC Methven Castle
+1 FAMS @F48@
+1 FAMS @F64@
+1 FAMC @F47@
+0 @I143@ INDI
+1 RIN MH:I143
+1 _UID 5D2CA298688DE1E99D3A705A0F8D9AAA0383
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME James IV //
+2 GIVN James IV
+2 NSFX King of Scotland
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3e1ec41ec8e43ccd9ac53bb22
+2 RIN MH:IF311
+2 DATE 1473
+1 DEAT
+2 _UID 624ea8b32ab091ec8e43ccd9ac53bb22
+2 RIN MH:IF312
+2 DATE 9 SEP 1513
+1 TITL King of Scotland
+2 _UID 624ea8b3ca6d11ec8e43ccd9ac53bb22
+2 RIN MH:IF313
+1 FAMS @F48@
+1 FAMC @F56@
+0 @I144@ INDI
+1 RIN MH:I144
+1 _UID 5D2CA298532271E99D3A705A0F8D9AAA138E
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME James V //
+2 GIVN James V
+2 NSFX King of Scotland
+1 SEX M
+1 BIRT
+2 _UID 624ea8b387a5b1ec8e43ccd9ac53bb22
+2 RIN MH:IF314
+2 DATE 10 APR 1512
+2 PLAC Linlithgow, Scotland
+1 DEAT
+2 _UID 624ea8b39aa081ec8e43ccd9ac53bb22
+2 RIN MH:IF315
+2 DATE 14 DEC 1542
+1 TITL King of Scotland
+2 _UID 624ea8b351fc51ec8e43ccd9ac53bb22
+2 RIN MH:IF316
+1 FAMS @F55@
+1 FAMC @F48@
+0 @I145@ INDI
+1 RIN MH:I145
+1 _UID 5D2CA298A6A2D1E99D3A705A0F8D9AAA46B2
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Archibald /Douglas/
+2 GIVN Archibald
+2 SURN Douglas
+2 NSFX Earl of Angus VI
+1 SEX M
+1 DEAT
+2 _UID 624ea8b3c818f1ec8e43ccd9ac53bb22
+2 RIN MH:IF317
+2 DATE ABT 1557
+1 TITL Earl of Angus VI
+2 _UID 624ea8b3344221ec8e43ccd9ac53bb22
+2 RIN MH:IF318
+1 FAMS @F64@
+0 @I151@ INDI
+1 RIN MH:I151
+1 _UID 5D2CA298D93801E99D3A705A0F8D9AAA3F68
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Anne of Austria //
+2 GIVN Anne of Austria
+1 SEX F
+1 BIRT
+2 _UID 624ea8b323d5e1ec8e43ccd9ac53bb22
+2 RIN MH:IF333
+2 DATE 22 SEP 1601
+1 DEAT
+2 _UID 624ea8b33ed0d1ec8e43ccd9ac53bb22
+2 RIN MH:IF334
+2 DATE 20 JAN 1666
+1 FAMS @F61@
+1 FAMC @F11@
+0 @I152@ INDI
+1 RIN MH:I152
+1 _UID 5D2CA29811D881E99D3A705A0F8D9AAA97E8
+1 _UPD 7 APR 2022 22:50:22 GMT+-0
+1 NAME Marie Louise //
+2 GIVN Marie Louise
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3731871ec8e43ccd9ac53bb22
+2 RIN MH:IF335
+2 DATE 26 MAR 1662
+1 DEAT
+2 _UID 624ea8b3b9f531ec8e43ccd9ac53bb22
+2 RIN MH:IF336
+2 DATE 12 FEB 1689
+1 FAMS @F75@
+1 FAMS @F94@
+1 FAMC @F46@
+0 @I153@ INDI
+1 RIN MH:I153
+1 _UID 5D2CA29826D071E99D3A705A0F8D9AAA94EC
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Richard /Plantagenet/
+2 GIVN Richard
+2 SURN Plantagenet
+2 NSFX Duke of York
+1 SEX M
+1 DEAT
+2 _UID 624ea8b3d45eb1ec8e43ccd9ac53bb22
+2 RIN MH:IF337
+2 DATE 1460
+1 TITL Duke of York
+2 _UID 624ea8b352cac1ec8e43ccd9ac53bb22
+2 RIN MH:IF338
+1 FAMS @F51@
+0 @I154@ INDI
+1 RIN MH:I154
+1 _UID 5D2CA298617001E99D3A705A0F8D9AAAFF30
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Cicely /Nevill/
+2 GIVN Cicely
+2 SURN Nevill
+2 NSFX Lady
+1 SEX F
+1 DEAT
+2 _UID 624ea8b3e536f1ec8e43ccd9ac53bb22
+2 RIN MH:IF339
+2 DATE 1495
+1 TITL Lady
+2 _UID 624ea8b363a281ec8e43ccd9ac53bb22
+2 RIN MH:IF340
+1 FAMS @F51@
+0 @I155@ INDI
+1 RIN MH:I155
+1 _UID 5D2CA298D62331E99D3A705A0F8D9AAA573D
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Edward IV //
+2 GIVN Edward IV
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3b5fb61ec8e43ccd9ac53bb22
+2 RIN MH:IF341
+2 DATE 28 APR 1442
+2 PLAC Rouen, France
+1 DEAT
+2 _UID 624ea8b37ea7b1ec8e43ccd9ac53bb22
+2 RIN MH:IF342
+2 DATE 9 APR 1483
+2 PLAC Westminster, Palace, London, England
+1 BURI
+2 _UID 624ea8b3f833c1ec8e43ccd9ac53bb22
+2 RIN MH:IF343
+2 PLAC St. George Chap., Windsor, England
+1 TITL King of England
+2 _UID 624ea8b3336f11ec8e43ccd9ac53bb22
+2 RIN MH:IF344
+1 FAMS @F52@
+1 FAMC @F51@
+0 @I156@ INDI
+1 RIN MH:I156
+1 _UID 5D2CA298AA83D1E99D3A705A0F8D9AAA2B8D
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Elizabeth /Woodville/
+2 GIVN Elizabeth
+2 SURN Woodville
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3705c51ec8e43ccd9ac53bb22
+2 RIN MH:IF345
+2 DATE ABT 1437
+2 PLAC Grafton Regis, Northants
+1 DEAT
+2 _UID 624ea8b3bb0081ec8e43ccd9ac53bb22
+2 RIN MH:IF346
+2 DATE 8 JUN 1492
+2 PLAC Bermondsey Abbey
+1 BURI
+2 _UID 624ea8b33d94f1ec8e43ccd9ac53bb22
+2 RIN MH:IF347
+2 PLAC St. George Chap., Windsor, England
+1 FAMS @F52@
+1 FAMC @F77@
+0 @I158@ INDI
+1 RIN MH:I158
+1 _UID 5D2CA298E4AAC1E99D3A705A0F8D9AAA7C52
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Antoine of Navarre //
+2 GIVN Antoine of Navarre
+1 SEX M
+1 BIRT
+2 _UID 624ea8b390da11ec8e43ccd9ac53bb22
+2 RIN MH:IF350
+2 DATE 22 APR 1518
+1 DEAT
+2 _UID 624ea8b3ec7af1ec8e43ccd9ac53bb22
+2 RIN MH:IF351
+2 DATE 17 NOV 1562
+1 FAMS @F53@
+1 FAMC @F90@
+0 @I159@ INDI
+1 RIN MH:I159
+1 _UID 5D2CA2982939A1E99D3A705A0F8D9AAA3073
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Catherine of Valois //
+2 GIVN Catherine of Valois
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3b03961ec8e43ccd9ac53bb22
+2 RIN MH:IF352
+2 DATE 27 OCT 1401
+2 PLAC Paris
+1 DEAT
+2 _UID 624ea8b336ad11ec8e43ccd9ac53bb22
+2 RIN MH:IF353
+2 DATE 3 JAN 1437
+2 PLAC Bermondsey, Abbey
+1 BURI
+2 _UID 624ea8b31a3281ec8e43ccd9ac53bb22
+2 RIN MH:IF354
+2 PLAC Westminster, Abbey, London, England
+1 FAMS @F60@
+0 @I160@ INDI
+1 RIN MH:I160
+1 _UID 5D2CA298E80DA1E99D3A705A0F8D9AAAC383
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Mary Stuart //
+2 GIVN Mary Stuart
+2 NSFX Queen of Scots
+1 SEX F
+1 BIRT
+2 _UID 624ea8b38d2dc1ec8e43ccd9ac53bb22
+2 RIN MH:IF355
+2 DATE 8 DEC 1542
+2 PLAC Linlithgow, Scotland
+1 DEAT
+2 _UID 624ea8b3467111ec8e43ccd9ac53bb22
+2 RIN MH:IF356
+2 DATE 8 FEB 1587
+2 PLAC England
+1 TITL Queen of Scots
+2 _UID 624ea8b3c0e561ec8e43ccd9ac53bb22
+2 RIN MH:IF357
+1 FAMS @F54@
+1 FAMC @F55@
+0 @I161@ INDI
+1 RIN MH:I161
+1 _UID 5D2CA298A96261E99D3A705A0F8D9AAA99B6
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Henry Stuart //
+2 GIVN Henry Stuart
+2 NSFX Lord Darnley
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3771951ec8e43ccd9ac53bb22
+2 RIN MH:IF358
+2 DATE 7 DEC 1545
+1 DEAT
+2 _UID 624ea8b3f18d21ec8e43ccd9ac53bb22
+2 RIN MH:IF359
+2 DATE 10 FEB 1567
+1 TITL Lord Darnley
+2 _UID 624ea8b33ad1f1ec8e43ccd9ac53bb22
+2 RIN MH:IF360
+1 FAMS @F54@
+1 FAMC @F63@
+0 @I162@ INDI
+1 RIN MH:I162
+1 _UID 5D2CA2985CE2C1E99D3A705A0F8D9AAA2C5A
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Mary of Guise //
+2 GIVN Mary of Guise
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3ec8811ec8e43ccd9ac53bb22
+2 RIN MH:IF361
+2 DATE 22 NOV 1515
+1 DEAT
+2 _UID 624ea8b36a1c61ec8e43ccd9ac53bb22
+2 RIN MH:IF362
+2 DATE 11 JUN 1560
+1 FAMS @F55@
+1 FAMC @F72@
+0 @I163@ INDI
+1 RIN MH:I163
+1 _UID 5D2CA298DEB251E99D3A705A0F8D9AAA0E02
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME James III //
+2 GIVN James III
+2 NSFX King of Scotland
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3501601ec8e43ccd9ac53bb22
+2 RIN MH:IF363
+2 DATE 1451
+2 PLAC Stirling, Scotland
+1 DEAT
+2 _UID 624ea8b39b4ad1ec8e43ccd9ac53bb22
+2 RIN MH:IF364
+2 DATE 1488
+1 TITL King of Scotland
+2 _UID 624ea8b37b9751ec8e43ccd9ac53bb22
+2 RIN MH:IF365
+1 FAMS @F56@
+1 FAMC @F66@
+0 @I164@ INDI
+1 RIN MH:I164
+1 _UID 5D2CA2981E3151E99D3A705A0F8D9AAACD77
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Edmund /Tudor/
+2 GIVN Edmund
+2 SURN Tudor
+2 NSFX Earl of Richmond
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3365ff1ec8e43ccd9ac53bb22
+2 RIN MH:IF366
+2 DATE ABT 1430
+1 DEAT
+2 _UID 624ea8b32b5ac1ec8e43ccd9ac53bb22
+2 RIN MH:IF367
+2 DATE 1456
+1 TITL Earl of Richmond
+2 _UID 624ea8b3e00611ec8e43ccd9ac53bb22
+2 RIN MH:IF368
+1 FAMS @F57@
+1 FAMC @F60@
+0 @I165@ INDI
+1 RIN MH:I165
+1 _UID 5D2CA298F3C721E99D3A705A0F8D9AAA0805
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Margaret of Richmond /Beaufort/
+2 GIVN Margaret of Richmond
+2 SURN Beaufort
+2 NSFX Countess
+1 SEX F
+1 DEAT
+2 _UID 624ea8b3ac7f21ec8e43ccd9ac53bb22
+2 RIN MH:IF369
+2 DATE 1509
+1 TITL Countess
+2 _UID 624ea8b36723f1ec8e43ccd9ac53bb22
+2 RIN MH:IF370
+1 FAMS @F57@
+1 FAMC @F58@
+0 @I166@ INDI
+1 RIN MH:I166
+1 _UID 5D2CA298F2DF21E99D3A705A0F8D9AAA1F01
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Jacquetta of Luxembourg //
+2 GIVN Jacquetta of Luxembourg
+1 SEX F
+1 FAMS @F77@
+0 @I167@ INDI
+1 RIN MH:I167
+1 _UID 5D2CA298FABCA1E99D3A705A0F8D9AAA84E0
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME John /Beaufort/
+2 GIVN John
+2 SURN Beaufort
+2 NSFX Duke Sommerset
+1 SEX M
+1 BIRT
+2 _UID 624ea8b33995d1ec8e43ccd9ac53bb22
+2 RIN MH:IF371
+2 DATE 1403
+1 DEAT
+2 _UID 624ea8b3bf01a1ec8e43ccd9ac53bb22
+2 RIN MH:IF372
+2 DATE 1444
+1 TITL Duke Sommerset
+2 _UID 624ea8b3745d71ec8e43ccd9ac53bb22
+2 RIN MH:IF373
+1 FAMS @F58@
+0 @I168@ INDI
+1 RIN MH:I168
+1 _UID 5D2CA298F3C031E99D3A705A0F8D9AAA1158
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Margaret /Beauchamp/
+2 GIVN Margaret
+2 SURN Beauchamp
+1 SEX F
+1 FAMS @F58@
+0 @I169@ INDI
+1 RIN MH:I169
+1 _UID 5D2CA2984E3DB1E99D3A705A0F8D9AAA69FB
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Owen /Tudor/
+2 GIVN Owen
+2 SURN Tudor
+1 SEX M
+1 DEAT
+2 _UID 624ea8b3b46381ec8e43ccd9ac53bb22
+2 RIN MH:IF374
+2 DATE 1461
+1 FAMS @F60@
+0 @I170@ INDI
+1 RIN MH:I170
+1 _UID 5D2CA298542E41E99D3A705A0F8D9AAAF03E
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Margaret Douglas //
+2 GIVN Margaret Douglas
+2 NSFX Lady
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3af5341ec8e43ccd9ac53bb22
+2 RIN MH:IF375
+2 DATE 8 OCT 1515
+1 DEAT
+2 _UID 624ea8b3640f91ec8e43ccd9ac53bb22
+2 RIN MH:IF376
+2 DATE 7 MAR 1578
+1 TITL Lady
+2 _UID 624ea8b384d211ec8e43ccd9ac53bb22
+2 RIN MH:IF377
+1 FAMS @F63@
+1 FAMC @F64@
+0 @I171@ INDI
+1 RIN MH:I171
+1 _UID 5D2CA2981BEDB1E99D3A705A0F8D9AAAE627
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Matthew Stuart //
+2 GIVN Matthew Stuart
+2 NSFX Earl Lennox 4th
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3c91ab1ec8e43ccd9ac53bb22
+2 RIN MH:IF378
+2 DATE 21 DEC 1516
+1 DEAT
+2 _UID 624ea8b3d41f81ec8e43ccd9ac53bb22
+2 RIN MH:IF379
+2 DATE 4 SEP 1571
+1 TITL Earl Lennox 4th
+2 _UID 624ea8b31f4351ec8e43ccd9ac53bb22
+2 RIN MH:IF380
+1 FAMS @F63@
+1 FAMC @F69@
+0 @I172@ INDI
+1 RIN MH:I172
+1 _UID 5D2CA2989BB671E99D3A705A0F8D9AAAEF4A
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME James I //
+2 GIVN James I
+2 NSFX King of Scotland
+1 SEX M
+1 BIRT
+2 _UID 624ea8b338cc51ec8e43ccd9ac53bb22
+2 RIN MH:IF381
+2 DATE 1394
+2 PLAC Dunfermline, Scotland
+1 DEAT
+2 _UID 624ea8b3f39081ec8e43ccd9ac53bb22
+2 RIN MH:IF382
+2 DATE 1437
+1 TITL King of Scotland
+2 _UID 624ea8b3134d01ec8e43ccd9ac53bb22
+2 RIN MH:IF383
+1 FAMS @F65@
+0 @I173@ INDI
+1 RIN MH:I173
+1 _UID 5D2CA2986B4531E99D3A705A0F8D9AAA0EAF
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Joan /Beaufort/
+2 GIVN Joan
+2 SURN Beaufort
+1 SEX F
+1 DEAT
+2 _UID 624ea8b35e85a1ec8e43ccd9ac53bb22
+2 RIN MH:IF384
+2 DATE 1445
+1 FAMS @F65@
+0 @I174@ INDI
+1 RIN MH:I174
+1 _UID 5D2CA298E405C1E99D3A705A0F8D9AAAD73B
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME James II //
+2 GIVN James II
+2 NSFX King of Scotland
+1 SEX M
+1 BIRT
+2 _UID 624ea8b388dc41ec8e43ccd9ac53bb22
+2 RIN MH:IF385
+2 DATE 1430
+2 PLAC Edinburgh, Scotland
+1 DEAT
+2 _UID 624ea8b3e48361ec8e43ccd9ac53bb22
+2 RIN MH:IF386
+2 DATE 1460
+2 PLAC Roxburgh Castle, Scotland
+1 TITL King of Scotland
+2 _UID 624ea8b31138e1ec8e43ccd9ac53bb22
+2 RIN MH:IF387
+1 FAMS @F66@
+1 FAMC @F65@
+0 @I175@ INDI
+1 RIN MH:I175
+1 _UID 5D2CA298DFAA51E99D3A705A0F8D9AAA07B6
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Marie of Gueldres //
+2 GIVN Marie of Gueldres
+1 SEX F
+1 DEAT
+2 _UID 624ea8b35cf041ec8e43ccd9ac53bb22
+2 RIN MH:IF388
+2 DATE 1463
+1 FAMS @F66@
+1 FAMC @F73@
+0 @I176@ INDI
+1 RIN MH:I176
+1 _UID 5D2CA29850EAA1E99D3A705A0F8D9AAA08E2
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Margaret of Denmark //
+2 GIVN Margaret of Denmark
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3fd6b61ec8e43ccd9ac53bb22
+2 RIN MH:IF389
+2 DATE ABT 1457
+1 DEAT
+2 _UID 624ea8b33637b1ec8e43ccd9ac53bb22
+2 RIN MH:IF390
+2 DATE 1486
+1 FAMS @F56@
+1 FAMC @F74@
+0 @I177@ INDI
+1 RIN MH:I177
+1 _UID 5D2CA298139CC1E99D3A705A0F8D9AAA9DEC
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Mary //
+2 GIVN Mary
+1 SEX F
+1 FAMS @F67@
+1 FAMC @F66@
+0 @I178@ INDI
+1 RIN MH:I178
+1 _UID 5D2CA298543CB1E99D3A705A0F8D9AAA6E38
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME James /Hamilton/
+2 GIVN James
+2 SURN Hamilton
+2 NSFX Lord 1st
+1 SEX M
+1 BIRT
+2 _UID 624ea8b32cdea1ec8e43ccd9ac53bb22
+2 RIN MH:IF391
+2 DATE 1479
+1 DEAT
+2 _UID 624ea8b3611601ec8e43ccd9ac53bb22
+2 RIN MH:IF392
+1 TITL Lord 1st
+2 _UID 624ea8b3e78271ec8e43ccd9ac53bb22
+2 RIN MH:IF393
+1 FAMS @F67@
+0 @I179@ INDI
+1 RIN MH:I179
+1 _UID 5D2CA2989CDC31E99D3A705A0F8D9AAAD678
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Elizabeth //
+2 GIVN Elizabeth
+1 SEX F
+1 FAMS @F68@
+1 FAMC @F67@
+0 @I180@ INDI
+1 RIN MH:I180
+1 _UID 5D2CA298514F51E99D3A705A0F8D9AAA1E25
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Matthew /Stewart/
+2 GIVN Matthew
+2 SURN Stewart
+2 NSFX Earl Lennox II
+1 SEX M
+1 TITL Earl Lennox II
+2 _UID 624ea8b32050a1ec8e43ccd9ac53bb22
+2 RIN MH:IF394
+1 FAMS @F68@
+0 @I181@ INDI
+1 RIN MH:I181
+1 _UID 5D2CA298DE0FA1E99D3A705A0F8D9AAABB21
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME John /Stewart/
+2 GIVN John
+2 SURN Stewart
+2 NSFX Earl Lennox III
+1 SEX M
+1 TITL Earl Lennox III
+2 _UID 624ea8b36d9801ec8e43ccd9ac53bb22
+2 RIN MH:IF395
+1 FAMS @F69@
+1 FAMC @F68@
+0 @I182@ INDI
+1 RIN MH:I182
+1 _UID 5D2CA298A4CFF1E99D3A705A0F8D9AAA91C9
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 SEX F
+1 FAMS @F69@
+0 @I183@ INDI
+1 RIN MH:I183
+1 _UID 5D2CA2981A7541E99D3A705A0F8D9AAAFD93
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Christian III //
+2 GIVN Christian III
+2 NSFX King of Denmark
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3e4b4e1ec8e43ccd9ac53bb22
+2 RIN MH:IF396
+2 DATE 12 AUG 1503
+2 PLAC Gottorp
+1 DEAT
+2 _UID 624ea8b32fe831ec8e43ccd9ac53bb22
+2 RIN MH:IF397
+2 DATE 1 JAN 1559
+2 PLAC Coldingen
+1 TITL King of Denmark
+2 _UID 624ea8b3debe81ec8e43ccd9ac53bb22
+2 RIN MH:IF398
+1 FAMS @F70@
+1 FAMC @F71@
+0 @I184@ INDI
+1 RIN MH:I184
+1 _UID 5D2CA298DF85A1E99D3A705A0F8D9AAA323F
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Dorothea of Saxe-Lauenburg //
+2 GIVN Dorothea of Saxe-Lauenburg
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3f53fd1ec8e43ccd9ac53bb22
+2 RIN MH:IF399
+2 DATE 9 JUL 1511
+1 DEAT
+2 _UID 624ea8b373aba1ec8e43ccd9ac53bb22
+2 RIN MH:IF400
+2 DATE 7 OCT 1571
+2 PLAC Sonderburg
+1 FAMS @F70@
+0 @I185@ INDI
+1 RIN MH:I185
+1 _UID 5D2CA298AD2671E99D3A705A0F8D9AAA71F2
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Frederick I //
+2 GIVN Frederick I
+2 NSFX King of Denmark
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3a5f241ec8e43ccd9ac53bb22
+2 RIN MH:IF401
+2 DATE 7 OCT 1471
+1 DEAT
+2 _UID 624ea8b36eae91ec8e43ccd9ac53bb22
+2 RIN MH:IF402
+2 DATE 10 APR 1533
+2 PLAC Gottorp
+1 TITL King of Denmark
+2 _UID 624ea8b3e83ae1ec8e43ccd9ac53bb22
+2 RIN MH:IF403
+1 FAMS @F71@
+1 FAMC @F74@
+0 @I186@ INDI
+1 RIN MH:I186
+1 _UID 5D2CA29858A6D1E99D3A705A0F8D9AAAFC36
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Anna //
+2 GIVN Anna
+1 SEX F
+1 BIRT
+2 _UID 624ea8b35fc6d1ec8e43ccd9ac53bb22
+2 RIN MH:IF404
+2 DATE 27 AUG 1487
+1 DEAT
+2 _UID 624ea8b3d952a1ec8e43ccd9ac53bb22
+2 RIN MH:IF405
+2 DATE 3 MAY 1547
+2 PLAC Kiel
+1 FAMS @F71@
+0 @I187@ INDI
+1 RIN MH:I187
+1 _UID 5D2CA298273C01E99D3A705A0F8D9AAA913C
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Claude //
+2 GIVN Claude
+2 NSFX Duke of Guise
+1 SEX M
+1 TITL Duke of Guise
+2 _UID 624ea8b3613321ec8e43ccd9ac53bb22
+2 RIN MH:IF406
+1 FAMS @F72@
+0 @I188@ INDI
+1 RIN MH:I188
+1 _UID 5D2CA298B00A21E99D3A705A0F8D9AAA08C2
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Arnold //
+2 GIVN Arnold
+2 NSFX Duke of Gueldres
+1 SEX M
+1 TITL Duke of Gueldres
+2 _UID 624ea8b3fb13f1ec8e43ccd9ac53bb22
+2 RIN MH:IF407
+1 FAMS @F73@
+0 @I189@ INDI
+1 RIN MH:I189
+1 _UID 5D2CA298CACA71E99D3A705A0F8D9AAA325A
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Christian I //
+2 GIVN Christian I
+2 NSFX King of Denmark
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3c11991ec8e43ccd9ac53bb22
+2 RIN MH:IF408
+2 DATE 1426
+1 DEAT
+2 _UID 624ea8b321c411ec8e43ccd9ac53bb22
+2 RIN MH:IF409
+2 DATE 1481
+1 TITL King of Denmark
+2 _UID 624ea8b3a75061ec8e43ccd9ac53bb22
+2 RIN MH:IF410
+1 FAMS @F74@
+0 @I190@ INDI
+1 RIN MH:I190
+1 _UID 5D2CA2983A3931E99D3A705A0F8D9AAAD1DF
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Dorothea //
+2 GIVN Dorothea
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3710981ec8e43ccd9ac53bb22
+2 RIN MH:IF411
+2 DATE 1430
+1 DEAT
+2 _UID 624ea8b3ba5551ec8e43ccd9ac53bb22
+2 RIN MH:IF412
+2 DATE 1495
+1 FAMS @F74@
+1 FAMC @F79@
+0 @I194@ INDI
+1 RIN MH:I194
+1 _UID 5D2CA298CACC41E99D3A705A0F8D9AAA0490
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Richard /Woodville/
+2 GIVN Richard
+2 SURN Woodville
+2 NSFX Earl Rivers
+1 SEX M
+1 TITL Earl Rivers
+2 _UID 624ea8b3a71fa1ec8e43ccd9ac53bb22
+2 RIN MH:IF420
+1 FAMS @F77@
+0 @I195@ INDI
+1 RIN MH:I195
+1 _UID 5D2CA299860481E99D3A705A0F8D9AAA3955
+1 _UPD 8 APR 2022 12:14:04 GMT+-0
+1 NAME John II (Juan II) //
+2 GIVN John II (Juan II)
+2 NSFX King of Castile
+1 SEX M
+1 BIRT
+2 _UID 624ea8b33c9411ec8e43ccd9ac53bb22
+2 RIN MH:IF421
+2 DATE 1405
+1 DEAT
+2 _UID 624ea8b3cdc2a1ec8e43ccd9ac53bb22
+2 RIN MH:IF422
+2 DATE 1454
+1 TITL King of Castile
+2 _UID 624ea8b369e791ec8e43ccd9ac53bb22
+2 RIN MH:IF423
+1 FAMS @F78@
+0 @I196@ INDI
+1 RIN MH:I196
+1 _UID 5D2CA299738421E99D3A705A0F8D9AAA4631
+1 _UPD 8 APR 2022 12:14:04 GMT+-0
+1 NAME Isabella of Portugal //
+2 GIVN Isabella of Portugal
+1 SEX F
+1 FAMS @F78@
+0 @I197@ INDI
+1 RIN MH:I197
+1 _UID 5D2CA299307421E99D3A705A0F8D9AAAF35D
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME John of Brandenburg //
+2 GIVN John of Brandenburg
+2 NSFX Margrave
+1 SEX M
+1 TITL Margrave
+2 _UID 624ea8b31fc1a1ec8e43ccd9ac53bb22
+2 RIN MH:IF424
+1 FAMS @F79@
+0 @I209@ INDI
+1 RIN MH:I209
+1 _UID 5D30AF8E8C3171E99D3A705A0F8D9AAA624F
+1 _UPD 8 APR 2022 12:15:21 GMT+-0
+1 NAME William IV //
+2 GIVN William IV
+1 SEX M
+1 BIRT
+2 _UID 624ea8b353b4d1ec8e43ccd9ac53bb22
+2 RIN MH:IF449
+2 DATE 13 NOV 1493
+1 DEAT
+2 _UID 624ea8b398e801ec8e43ccd9ac53bb22
+2 RIN MH:IF450
+2 DATE 7 MAR 1550
+1 FAMS @F86@
+0 @I210@ INDI
+1 RIN MH:I210
+1 _UID 5D30AFBC8C3171E99D3A705A0F8D9AAA90A5
+1 _UPD 8 APR 2022 12:15:21 GMT+-0
+1 NAME Marie of Baden-Sponheim //
+2 GIVN Marie of Baden-Sponheim
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3d520a1ec8e43ccd9ac53bb22
+2 RIN MH:IF451
+2 DATE 25 JUN 1507
+1 DEAT
+2 _UID 624ea8b3c82591ec8e43ccd9ac53bb22
+2 RIN MH:IF452
+2 DATE 16 NOV 1580
+1 FAMS @F86@
+0 @I213@ INDI
+1 RIN MH:I213
+1 _UID 5D331F82AE37E1E99D3A705A0F8D9AAA613A
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Ulrich III //
+2 GIVN Ulrich III
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3e33871ec8e43ccd9ac53bb22
+2 RIN MH:IF457
+2 DATE 5 MAR 1527
+1 DEAT
+2 _UID 624ea8b365ac01ec8e43ccd9ac53bb22
+2 RIN MH:IF458
+2 DATE 14 MAR 1603
+1 FAMS @F88@
+0 @I214@ INDI
+1 RIN MH:I214
+1 _UID 5D331F9EAE37E1E99D3A705A0F8D9AAA7DA6
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Elizabeth of Denmark //
+2 GIVN Elizabeth of Denmark
+1 SEX F
+1 BIRT
+2 _UID 624ea8b345cf21ec8e43ccd9ac53bb22
+2 RIN MH:IF459
+2 DATE 14 OCT 1524
+1 DEAT
+2 _UID 624ea8b3c35b51ec8e43ccd9ac53bb22
+2 RIN MH:IF460
+2 DATE 15 OCT 1586
+1 FAMS @F88@
+0 @I215@ INDI
+1 RIN MH:I215
+1 _UID 5D332047AE37E1E99D3A705A0F8D9AAA2749
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Cosimo I //
+2 GIVN Cosimo I
+1 SEX M
+1 BIRT
+2 _UID 624ea8b31502b1ec8e43ccd9ac53bb22
+2 RIN MH:IF461
+2 DATE 12 JUN 1519
+1 DEAT
+2 _UID 624ea8b3de5e61ec8e43ccd9ac53bb22
+2 RIN MH:IF462
+2 DATE 21 APR 1574
+1 FAMS @F89@
+0 @I216@ INDI
+1 RIN MH:I216
+1 _UID 5D332063AE37E1E99D3A705A0F8D9AAA43B5
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Eleanor of Toledo //
+2 GIVN Eleanor of Toledo
+1 SEX F
+1 BIRT
+2 _UID 624ea8b39396c1ec8e43ccd9ac53bb22
+2 RIN MH:IF463
+2 DATE 11 JAN 1519
+1 DEAT
+2 _UID 624ea8b362c071ec8e43ccd9ac53bb22
+2 RIN MH:IF464
+2 DATE 17 DEC 1562
+1 FAMS @F89@
+0 @I217@ INDI
+1 RIN MH:I217
+1 _UID 5D3366DFF62631E99D3A705A0F8D9AAA8C9A
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Charles //
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3ae8261ec8e43ccd9ac53bb22
+2 RIN MH:IF465
+2 DATE 2 JUN 1489
+1 DEAT
+2 _UID 624ea8b365deb1ec8e43ccd9ac53bb22
+2 RIN MH:IF466
+2 DATE 25 MAR 1537
+1 FAMS @F90@
+0 @I218@ INDI
+1 RIN MH:I218
+1 _UID 5D336703F62631E99D3A705A0F8D9AAAB17C
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Françoise d'Alençon //
+2 GIVN Françoise d'Alençon
+1 SEX F
+1 BIRT
+2 _UID 624ea8b35fd4d1ec8e43ccd9ac53bb22
+2 RIN MH:IF467
+2 DATE 1490
+1 DEAT
+2 _UID 624ea8b3bf0951ec8e43ccd9ac53bb22
+2 RIN MH:IF468
+2 DATE 14 SEP 1550
+1 FAMS @F90@
+0 @I219@ INDI
+1 RIN MH:I219
+1 _UID 5D3424B4F62631E99D3A705A0F8D9AAA20DE
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Henry II //
+2 GIVN Henry II
+1 SEX M
+1 BIRT
+2 _UID 624ea8b3a33da1ec8e43ccd9ac53bb22
+2 RIN MH:IF469
+2 DATE 18 APR 1503
+1 DEAT
+2 _UID 624ea8b325a9d1ec8e43ccd9ac53bb22
+2 RIN MH:IF470
+2 DATE 25 MAY 1555
+1 FAMS @F91@
+0 @I220@ INDI
+1 RIN MH:I220
+1 _UID 5D3424DCF62631E99D3A705A0F8D9AAA48E6
+1 _UPD 7 APR 2022 22:49:57 GMT+-0
+1 NAME Marguerite de Navarre //
+2 GIVN Marguerite de Navarre
+1 SEX F
+1 BIRT
+2 _UID 624ea8b3f185d1ec8e43ccd9ac53bb22
+2 RIN MH:IF471
+2 DATE 11 APR 1492
+1 DEAT
+2 _UID 624ea8b37711a1ec8e43ccd9ac53bb22
+2 RIN MH:IF472
+2 DATE 21 DEC 1549
+1 FAMS @F91@
+0 @I223@ INDI
+1 RIN MH:I223
+1 _UID 624f4233a3b121ec8e43ccd9ac53bb22
+1 _UPD 8 APR 2022 12:13:48 GMT+-0
+1 NAME Frederick III, Holy Roman Emperor //
+2 GIVN Frederick III, Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 _UID 624f426fa3b121ec8e43ccd9ac53bb22
+2 RIN MH:IF477
+2 DATE 21 SEP 1415
+2 PLAC Innsbruck, Tyrol
+1 DEAT
+2 _UID 624f426f68edf1ec8e43ccd9ac53bb22
+2 RIN MH:IF478
+2 DATE 19 AUG 1493
+2 PLAC Linz, Austria
+1 FAMS @F93@
+0 @I224@ INDI
+1 RIN MH:I224
+1 _UID 624f42b4a3b121ec8e43ccd9ac53bb22
+1 _UPD 8 APR 2022 12:13:48 GMT+-0
+1 NAME Eleanor of Portugal, Holy Roman Empress //
+2 GIVN Eleanor of Portugal, Holy Roman Empress
+1 SEX F
+1 BIRT
+2 _UID 624f42eea3b121ec8e43ccd9ac53bb22
+2 RIN MH:IF479
+2 DATE 18 SEP 1434
+2 PLAC Torres Vedras
+1 DEAT
+2 _UID 624f42ee68edf1ec8e43ccd9ac53bb22
+2 RIN MH:IF480
+2 DATE 3 SEP 1467
+2 PLAC Wiener Neustadt
+1 FAMS @F93@
+0 @F1@ FAM
+1 RIN MH:F1
+1 _UID 5cbdd2dca93e41e9be87d4bed98d72bb
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I113@
+1 CHIL @I3@
+1 CHIL @I5@
+1 CHIL @I4@
+1 CHIL @I114@
+1 CHIL @I115@
+1 MARR
+2 _UID 5cbdd31332af01e9be87d4bed98d72bb
+2 RIN MH:FF1
+0 @F2@ FAM
+1 RIN MH:F2
+1 _UID 5cbdd498a93e41e9be87d4bed98d72bb
+1 HUSB @I3@
+1 WIFE @I6@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHIL @I102@
+1 MARR
+2 _UID 5cbdd498626291e9be87d4bed98d72bb
+2 RIN MH:FF2
+0 @F3@ FAM
+1 RIN MH:F3
+1 _UID 5cbdd4bea93e41e9be87d4bed98d72bb
+1 HUSB @I7@
+1 WIFE @I5@
+1 CHIL @I15@
+1 MARR
+2 _UID 5cbdd4be626291e9be87d4bed98d72bb
+2 RIN MH:FF3
+0 @F4@ FAM
+1 RIN MH:F4
+1 _UID 5cbdd4dfa93e41e9be87d4bed98d72bb
+1 HUSB @I4@
+1 WIFE @I8@
+1 CHIL @I103@
+1 CHIL @I11@
+1 CHIL @I13@
+1 CHIL @I104@
+1 CHIL @I105@
+1 CHIL @I106@
+1 CHIL @I107@
+1 CHIL @I108@
+1 CHIL @I109@
+1 CHIL @I110@
+1 CHIL @I12@
+1 CHIL @I111@
+1 CHIL @I112@
+1 CHIL @I128@
+1 MARR
+2 _UID 5cbdd4df626291e9be87d4bed98d72bb
+2 RIN MH:FF4
+0 @F5@ FAM
+1 RIN MH:F5
+1 _UID 5cbdd6e2a93e41e9be87d4bed98d72bb
+1 HUSB @I11@
+1 WIFE @I10@
+1 CHIL @I17@
+0 @F6@ FAM
+1 RIN MH:F6
+1 _UID 5cbdd766a93e41e9be87d4bed98d72bb
+1 HUSB @I14@
+1 WIFE @I13@
+1 CHIL @I19@
+1 CHIL @I84@
+1 CHIL @I18@
+1 CHIL @I85@
+1 CHIL @I86@
+0 @F7@ FAM
+1 RIN MH:F7
+1 _UID 5cbdd905a93e41e9be87d4bed98d72bb
+1 HUSB @I16@
+1 WIFE @I15@
+1 CHIL @I20@
+0 @F8@ FAM
+1 RIN MH:F8
+1 _UID 5cbdd974a93e41e9be87d4bed98d72bb
+1 HUSB @I9@
+1 WIFE @I17@
+1 CHIL @I21@
+0 @F9@ FAM
+1 RIN MH:F9
+1 _UID 5cbdd9b4a93e41e9be87d4bed98d72bb
+1 HUSB @I12@
+1 WIFE @I18@
+1 CHIL @I90@
+1 CHIL @I91@
+1 CHIL @I92@
+1 CHIL @I93@
+1 CHIL @I23@
+1 CHIL @I94@
+1 CHIL @I95@
+1 CHIL @I96@
+1 CHIL @I22@
+1 CHIL @I97@
+1 CHIL @I98@
+1 CHIL @I99@
+1 CHIL @I100@
+0 @F10@ FAM
+1 RIN MH:F10
+1 _UID 5cbdda1ea93e41e9be87d4bed98d72bb
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I24@
+0 @F11@ FAM
+1 RIN MH:F11
+1 _UID 5cbddabba93e41e9be87d4bed98d72bb
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I151@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I88@
+1 CHIL @I89@
+0 @F12@ FAM
+1 RIN MH:F12
+1 _UID 5cbddb47a93e41e9be87d4bed98d72bb
+1 HUSB @I23@
+1 WIFE @I24@
+1 CHIL @I27@
+0 @F13@ FAM
+1 RIN MH:F13
+1 _UID 5cbddba7a93e41e9be87d4bed98d72bb
+1 HUSB @I27@
+1 WIFE @I26@
+1 CHIL @I121@
+1 CHIL @I28@
+1 CHIL @I122@
+1 CHIL @I123@
+1 CHIL @I124@
+1 CHIL @I125@
+0 @F14@ FAM
+1 RIN MH:F14
+1 _UID 5cbddbcea93e41e9be87d4bed98d72bb
+1 HUSB @I25@
+1 WIFE @I28@
+1 CHIL @I119@
+1 CHIL @I120@
+1 CHIL @I29@
+0 @F15@ FAM
+1 RIN MH:F15
+1 _UID 614dd15ff73091ec8df5ccd9ac53bb22
+1 HUSB @I30@
+1 WIFE @I31@
+1 CHIL @I16@
+1 MARR
+2 _UID 614dd15f71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF5
+0 @F16@ FAM
+1 RIN MH:F16
+1 _UID 614dd28ef73091ec8df5ccd9ac53bb22
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I14@
+1 MARR
+2 _UID 614dd28e71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF6
+0 @F17@ FAM
+1 RIN MH:F17
+1 _UID 614dd3b8f73091ec8df5ccd9ac53bb22
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I8@
+1 MARR
+2 _UID 614dd3b871a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF7
+0 @F18@ FAM
+1 RIN MH:F18
+1 _UID 614dd454f73091ec8df5ccd9ac53bb22
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I6@
+1 MARR
+2 _UID 614dd45471a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF8
+0 @F19@ FAM
+1 RIN MH:F19
+1 _UID 614dd574f73091ec8df5ccd9ac53bb22
+1 HUSB @I38@
+1 WIFE @I39@
+1 CHIL @I1@
+1 MARR
+2 _UID 614dd57471a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF9
+0 @F20@ FAM
+1 RIN MH:F20
+1 _UID 614dd5cff73091ec8df5ccd9ac53bb22
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I116@
+1 CHIL @I117@
+1 CHIL @I2@
+1 CHIL @I37@
+1 CHIL @I118@
+1 MARR
+2 _UID 614dd5cf71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF10
+0 @F21@ FAM
+1 RIN MH:F21
+1 _UID 614dda1bf73091ec8df5ccd9ac53bb22
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I36@
+1 MARR
+2 _UID 614dda1b71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF11
+0 @F22@ FAM
+1 RIN MH:F22
+1 _UID 614ddc62f73091ec8df5ccd9ac53bb22
+1 HUSB @I44@
+1 WIFE @I45@
+1 CHIL @I34@
+1 MARR
+2 _UID 614ddc6271a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF12
+0 @F23@ FAM
+1 RIN MH:F23
+1 _UID 614ddcd9f73091ec8df5ccd9ac53bb22
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I35@
+1 MARR
+2 _UID 614ddcd971a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF13
+0 @F24@ FAM
+1 RIN MH:F24
+1 _UID 614dddecf73091ec8df5ccd9ac53bb22
+1 HUSB @I48@
+1 WIFE @I49@
+1 CHIL @I32@
+1 MARR
+2 _UID 614dddec71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF14
+0 @F25@ FAM
+1 RIN MH:F25
+1 _UID 614dde54f73091ec8df5ccd9ac53bb22
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I33@
+1 MARR
+2 _UID 614dde5471a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF15
+0 @F26@ FAM
+1 RIN MH:F26
+1 _UID 614deb00f73091ec8df5ccd9ac53bb22
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I38@
+1 CHIL @I49@
+1 MARR
+2 _UID 614deb0071a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF16
+0 @F27@ FAM
+1 RIN MH:F27
+1 _UID 614deb8bf73091ec8df5ccd9ac53bb22
+1 HUSB @I54@
+1 WIFE @I55@
+1 CHIL @I39@
+1 MARR
+2 _UID 614deb8b71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF17
+0 @F28@ FAM
+1 RIN MH:F28
+1 _UID 614decfcf73091ec8df5ccd9ac53bb22
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I40@
+1 MARR
+2 _UID 614decfc71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF18
+0 @F29@ FAM
+1 RIN MH:F29
+1 _UID 614deda9f73091ec8df5ccd9ac53bb22
+1 HUSB @I58@
+1 WIFE @I59@
+1 CHIL @I41@
+1 MARR
+2 _UID 614deda971a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF19
+0 @F30@ FAM
+1 RIN MH:F30
+1 _UID 614deedaf73091ec8df5ccd9ac53bb22
+1 HUSB @I60@
+1 WIFE @I61@
+1 CHIL @I42@
+1 MARR
+2 _UID 614deeda71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF20
+0 @F31@ FAM
+1 RIN MH:F31
+1 _UID 614def70f73091ec8df5ccd9ac53bb22
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I43@
+1 MARR
+2 _UID 614def7071a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF21
+0 @F32@ FAM
+1 RIN MH:F32
+1 _UID 614df02ff73091ec8df5ccd9ac53bb22
+1 HUSB @I64@
+1 WIFE @I65@
+1 CHIL @I44@
+1 MARR
+2 _UID 614df02f71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF22
+0 @F33@ FAM
+1 RIN MH:F33
+1 _UID 614df0f8f73091ec8df5ccd9ac53bb22
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I45@
+1 MARR
+2 _UID 614df0f871a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF23
+0 @F34@ FAM
+1 RIN MH:F34
+1 _UID 614df1daf73091ec8df5ccd9ac53bb22
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I47@
+1 MARR
+2 _UID 614df1da71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF24
+0 @F35@ FAM
+1 RIN MH:F35
+1 _UID 614df242f73091ec8df5ccd9ac53bb22
+1 HUSB @I70@
+1 WIFE @I71@
+1 CHIL @I46@
+1 MARR
+2 _UID 614df24271a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF25
+0 @F36@ FAM
+1 RIN MH:F36
+1 _UID 614df2edf73091ec8df5ccd9ac53bb22
+1 HUSB @I72@
+1 WIFE @I73@
+1 CHIL @I48@
+1 MARR
+2 _UID 614df2ed71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF26
+0 @F37@ FAM
+1 RIN MH:F37
+1 _UID 614df3bef73091ec8df5ccd9ac53bb22
+1 HUSB @I74@
+1 WIFE @I75@
+1 CHIL @I50@
+1 MARR
+2 _UID 614df3be71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF27
+0 @F38@ FAM
+1 RIN MH:F38
+1 _UID 614df41bf73091ec8df5ccd9ac53bb22
+1 HUSB @I76@
+1 WIFE @I77@
+1 CHIL @I51@
+1 MARR
+2 _UID 614df41b71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF28
+0 @F39@ FAM
+1 RIN MH:F39
+1 _UID 614df4c8f73091ec8df5ccd9ac53bb22
+1 HUSB @I78@
+1 WIFE @I79@
+1 CHIL @I30@
+1 MARR
+2 _UID 614df4c871a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF29
+0 @F40@ FAM
+1 RIN MH:F40
+1 _UID 614df53bf73091ec8df5ccd9ac53bb22
+1 HUSB @I80@
+1 WIFE @I81@
+1 CHIL @I31@
+1 MARR
+2 _UID 614df53b71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF30
+0 @F41@ FAM
+1 RIN MH:F41
+1 _UID 614df5faf73091ec8df5ccd9ac53bb22
+1 HUSB @I82@
+1 WIFE @I83@
+1 CHIL @I7@
+1 MARR
+2 _UID 614df5fa71a4e1ec8df5ccd9ac53bb22
+2 RIN MH:FF31
+0 @F42@ FAM
+1 RIN MH:F42
+1 _UID 624ea8b3b735a1ec8e43ccd9ac53bb22
+1 HUSB @I130@
+1 WIFE @I131@
+1 CHIL @I132@
+1 MARR
+2 _UID 624ea8b37c6971ec8e43ccd9ac53bb22
+2 RIN MH:FF32
+2 DATE 23 NOV 1589
+2 PLAC Oslo, Norway
+0 @F43@ FAM
+1 RIN MH:F43
+1 _UID 624ea8b31dcca1ec8e43ccd9ac53bb22
+1 HUSB @I133@
+1 WIFE @I134@
+1 CHIL @I131@
+1 MARR
+2 _UID 624ea8b3d69071ec8e43ccd9ac53bb22
+2 RIN MH:FF33
+2 DATE 20 JUL 1572
+2 PLAC Copenhagen, Denmark
+0 @F44@ FAM
+1 RIN MH:F44
+1 _UID 624ea8b3c99f71ec8e43ccd9ac53bb22
+1 HUSB @I132@
+1 WIFE @I135@
+1 CHIL @I138@
+1 MARR
+2 _UID 624ea8b3865de1ec8e43ccd9ac53bb22
+2 RIN MH:FF34
+2 DATE 13 JUN 1625
+2 PLAC Canterbury, England
+0 @F45@ FAM
+1 RIN MH:F45
+1 _UID 624ea8b34d0131ec8e43ccd9ac53bb22
+1 HUSB @I136@
+1 WIFE @I137@
+1 CHIL @I127@
+1 CHIL @I135@
+1 MARR
+2 _UID 624ea8b3bc5781ec8e43ccd9ac53bb22
+2 RIN MH:FF35
+2 DATE 17 DEC 1600
+0 @F46@ FAM
+1 RIN MH:F46
+1 _UID 624ea8b3770b51ec8e43ccd9ac53bb22
+1 HUSB @I139@
+1 WIFE @I138@
+1 CHIL @I152@
+1 MARR
+2 _UID 624ea8b397d6d1ec8e43ccd9ac53bb22
+2 RIN MH:FF36
+2 DATE 31 MAR 1661
+2 PLAC Paris, France
+0 @F47@ FAM
+1 RIN MH:F47
+1 _UID 624ea8b3b7b5f1ec8e43ccd9ac53bb22
+1 HUSB @I140@
+1 WIFE @I141@
+1 CHIL @I142@
+1 MARR
+2 _UID 624ea8b37ce921ec8e43ccd9ac53bb22
+2 RIN MH:FF37
+2 DATE 18 JAN 1486
+2 PLAC Westminster, England
+0 @F48@ FAM
+1 RIN MH:F48
+1 _UID 624ea8b3a63ec1ec8e43ccd9ac53bb22
+1 HUSB @I143@
+1 WIFE @I142@
+1 CHIL @I144@
+1 MARR
+2 _UID 624ea8b320aab1ec8e43ccd9ac53bb22
+2 RIN MH:FF38
+2 DATE 8 AUG 1503
+2 PLAC Holyrod Abbey
+0 @F51@ FAM
+1 RIN MH:F51
+1 _UID 624ea8b31414f1ec8e43ccd9ac53bb22
+1 HUSB @I153@
+1 WIFE @I154@
+1 CHIL @I155@
+0 @F52@ FAM
+1 RIN MH:F52
+1 _UID 624ea8b3e54241ec8e43ccd9ac53bb22
+1 HUSB @I155@
+1 WIFE @I156@
+1 CHIL @I141@
+1 MARR
+2 _UID 624ea8b32e1e91ec8e43ccd9ac53bb22
+2 RIN MH:FF41
+2 DATE 1 MAY 1464
+2 PLAC Grafton Regis, Northants
+0 @F53@ FAM
+1 RIN MH:F53
+1 _UID 624ea8b366cfa1ec8e43ccd9ac53bb22
+1 HUSB @I158@
+1 WIFE @I126@
+1 CHIL @I136@
+1 MARR
+2 _UID 624ea8b3ad9371ec8e43ccd9ac53bb22
+2 RIN MH:FF42
+2 DATE 20 OCT 1548
+0 @F54@ FAM
+1 RIN MH:F54
+1 _UID 624ea8b3a11d71ec8e43ccd9ac53bb22
+1 HUSB @I161@
+1 WIFE @I160@
+1 CHIL @I130@
+1 MARR
+2 _UID 624ea8b3278901ec8e43ccd9ac53bb22
+2 RIN MH:FF43
+2 DATE 29 JUL 1565
+2 PLAC Edinburgh, Scotland
+0 @F55@ FAM
+1 RIN MH:F55
+1 _UID 624ea8b3ccb6f1ec8e43ccd9ac53bb22
+1 HUSB @I144@
+1 WIFE @I162@
+1 CHIL @I160@
+1 MARR
+2 _UID 624ea8b37ea291ec8e43ccd9ac53bb22
+2 RIN MH:FF44
+2 DATE 9 MAY 1538
+0 @F56@ FAM
+1 RIN MH:F56
+1 _UID 624ea8b3817e51ec8e43ccd9ac53bb22
+1 HUSB @I163@
+1 WIFE @I176@
+1 CHIL @I143@
+1 MARR
+2 _UID 624ea8b34a2281ec8e43ccd9ac53bb22
+2 RIN MH:FF45
+2 DATE 1469
+0 @F57@ FAM
+1 RIN MH:F57
+1 _UID 624ea8b35727b1ec8e43ccd9ac53bb22
+1 HUSB @I164@
+1 WIFE @I165@
+1 CHIL @I140@
+0 @F58@ FAM
+1 RIN MH:F58
+1 _UID 624ea8b3ec5581ec8e43ccd9ac53bb22
+1 HUSB @I167@
+1 WIFE @I168@
+1 CHIL @I165@
+0 @F59@ FAM
+1 RIN MH:F59
+1 _UID 624ea8b3f150b1ec8e43ccd9ac53bb22
+1 HUSB @I129@
+1 WIFE @I128@
+1 CHIL @I137@
+1 MARR
+2 _UID 624ea8b33a0c61ec8e43ccd9ac53bb22
+2 RIN MH:FF46
+2 DATE 18 DEC 1565
+0 @F60@ FAM
+1 RIN MH:F60
+1 _UID 624ea8b3bc9811ec8e43ccd9ac53bb22
+1 HUSB @I169@
+1 WIFE @I159@
+1 CHIL @I164@
+0 @F61@ FAM
+1 RIN MH:F61
+1 _UID 624ea8b34dcea1ec8e43ccd9ac53bb22
+1 HUSB @I127@
+1 WIFE @I151@
+1 CHIL @I139@
+1 MARR
+2 _UID 624ea8b3ad1321ec8e43ccd9ac53bb22
+2 RIN MH:FF47
+2 DATE 24 NOV 1615
+0 @F63@ FAM
+1 RIN MH:F63
+1 _UID 624ea8b3718c31ec8e43ccd9ac53bb22
+1 HUSB @I171@
+1 WIFE @I170@
+1 CHIL @I161@
+0 @F64@ FAM
+1 RIN MH:F64
+1 _UID 624ea8b3cc4411ec8e43ccd9ac53bb22
+1 HUSB @I145@
+1 WIFE @I142@
+1 CHIL @I170@
+1 MARR
+2 _UID 624ea8b34ad061ec8e43ccd9ac53bb22
+2 RIN MH:FF49
+2 DATE 4 AUG 1514
+1 DIV
+2 _UID 624ea8b3818cb1ec8e43ccd9ac53bb22
+2 RIN MH:FF50
+0 @F65@ FAM
+1 RIN MH:F65
+1 _UID 624ea8b3465e61ec8e43ccd9ac53bb22
+1 HUSB @I172@
+1 WIFE @I173@
+1 CHIL @I174@
+0 @F66@ FAM
+1 RIN MH:F66
+1 _UID 624ea8b33afe81ec8e43ccd9ac53bb22
+1 HUSB @I174@
+1 WIFE @I175@
+1 CHIL @I163@
+1 CHIL @I177@
+0 @F67@ FAM
+1 RIN MH:F67
+1 _UID 624ea8b3f1a251ec8e43ccd9ac53bb22
+1 HUSB @I178@
+1 WIFE @I177@
+1 CHIL @I179@
+0 @F68@ FAM
+1 RIN MH:F68
+1 _UID 624ea8b3773621ec8e43ccd9ac53bb22
+1 HUSB @I180@
+1 WIFE @I179@
+1 CHIL @I181@
+0 @F69@ FAM
+1 RIN MH:F69
+1 _UID 624ea8b3bc6af1ec8e43ccd9ac53bb22
+1 HUSB @I181@
+1 WIFE @I182@
+1 CHIL @I171@
+0 @F70@ FAM
+1 RIN MH:F70
+1 _UID 624ea8b3629071ec8e43ccd9ac53bb22
+1 HUSB @I183@
+1 WIFE @I184@
+1 CHIL @I133@
+1 MARR
+2 _UID 624ea8b3f77fb1ec8e43ccd9ac53bb22
+2 RIN MH:FF51
+2 DATE 29 OCT 1525
+2 PLAC Lauenburg
+0 @F71@ FAM
+1 RIN MH:F71
+1 _UID 624ea8b33c2361ec8e43ccd9ac53bb22
+1 HUSB @I185@
+1 WIFE @I186@
+1 CHIL @I183@
+1 MARR
+2 _UID 624ea8b3dcfee1ec8e43ccd9ac53bb22
+2 RIN MH:FF52
+2 DATE 10 APR 1502
+0 @F72@ FAM
+1 RIN MH:F72
+1 _UID 624ea8b3283191ec8e43ccd9ac53bb22
+1 HUSB @I187@
+1 CHIL @I162@
+0 @F73@ FAM
+1 RIN MH:F73
+1 _UID 624ea8b365f931ec8e43ccd9ac53bb22
+1 HUSB @I188@
+1 CHIL @I175@
+0 @F74@ FAM
+1 RIN MH:F74
+1 _UID 624ea8b394af81ec8e43ccd9ac53bb22
+1 HUSB @I189@
+1 WIFE @I190@
+1 CHIL @I176@
+1 CHIL @I185@
+1 MARR
+2 _UID 624ea8b35ff351ec8e43ccd9ac53bb22
+2 RIN MH:FF53
+2 DATE 1449
+0 @F75@ FAM
+1 RIN MH:F75
+1 _UID 624ea8b332d881ec8e43ccd9ac53bb22
+1 WIFE @I152@
+1 MARR
+2 _UID 624ea8b3f98451ec8e43ccd9ac53bb22
+2 RIN MH:FF54
+2 DATE 19 NOV 1679
+0 @F77@ FAM
+1 RIN MH:F77
+1 _UID 624ea8b3330911ec8e43ccd9ac53bb22
+1 HUSB @I194@
+1 WIFE @I166@
+1 CHIL @I156@
+0 @F78@ FAM
+1 RIN MH:F78
+1 _UID 624ea8b3be7751ec8e43ccd9ac53bb22
+1 HUSB @I195@
+1 WIFE @I196@
+0 @F79@ FAM
+1 RIN MH:F79
+1 _UID 624ea8b34dd451ec8e43ccd9ac53bb22
+1 HUSB @I197@
+1 CHIL @I190@
+0 @F86@ FAM
+1 RIN MH:F86
+1 _UID 624ea8b32fc741ec8e43ccd9ac53bb22
+1 HUSB @I209@
+1 WIFE @I210@
+1 MARR
+2 _UID 624ea8b3e49b91ec8e43ccd9ac53bb22
+2 RIN MH:FF62
+0 @F88@ FAM
+1 RIN MH:F88
+1 _UID 624ea8b3aedb11ec8e43ccd9ac53bb22
+1 HUSB @I213@
+1 WIFE @I214@
+1 CHIL @I134@
+1 MARR
+2 _UID 624ea8b3284f61ec8e43ccd9ac53bb22
+2 RIN MH:FF64
+2 DATE 15 OCT 1556
+0 @F89@ FAM
+1 RIN MH:F89
+1 _UID 624ea8b3e313b1ec8e43ccd9ac53bb22
+1 HUSB @I215@
+1 WIFE @I216@
+1 CHIL @I129@
+1 MARR
+2 _UID 624ea8b3fe1681ec8e43ccd9ac53bb22
+2 RIN MH:FF65
+2 DATE 1539
+0 @F90@ FAM
+1 RIN MH:F90
+1 _UID 624ea8b382b661ec8e43ccd9ac53bb22
+1 HUSB @I217@
+1 WIFE @I218@
+1 CHIL @I158@
+1 MARR
+2 _UID 624ea8b349eab1ec8e43ccd9ac53bb22
+2 RIN MH:FF66
+2 DATE 18 MAY 1513
+0 @F91@ FAM
+1 RIN MH:F91
+1 _UID 624ea8b3232d41ec8e43ccd9ac53bb22
+1 HUSB @I219@
+1 WIFE @I220@
+1 CHIL @I126@
+1 MARR
+2 _UID 624ea8b3e87191ec8e43ccd9ac53bb22
+2 RIN MH:FF67
+2 DATE 1526
+0 @F93@ FAM
+1 RIN MH:F93
+1 _UID 624f423368edf1ec8e43ccd9ac53bb22
+1 HUSB @I223@
+1 WIFE @I224@
+1 MARR
+2 _UID 624f4233ee7981ec8e43ccd9ac53bb22
+2 RIN MH:FF69
+0 @F94@ FAM
+1 RIN MH:F94
+1 _UID 624f5c9ede1231ec8e43ccd9ac53bb22
+1 HUSB @I29@
+1 WIFE @I152@
+0 TRLR
