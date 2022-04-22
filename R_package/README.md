@@ -7,10 +7,10 @@ A demo gedcom of <A href="https://en.wikipedia.org/wiki/Charles_II_of_Spain">Cha
 <a href= "https://webtreeprint.com/tp_famous_gedcoms.php">Famous GEDCOMs</a>
 
 
-<h4>VisAC_1.0.zip</h4>
+<h4><A href="https://github.com/jlmborges/VisAC/blob/main/R_package/VisAC_1.0.zip">VisAC_1.0.zip</A></h4>
 
 The R package with the VisAC tool implementation.
 
-<h4>required_packages.R</h4>
+<h4><A href="">required_packages.R</A></h4>
 
 A script to install all the packages required to run VisAC.
