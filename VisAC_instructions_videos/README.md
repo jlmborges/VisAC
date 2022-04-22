@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/45044810/164747481-a528c757-72e4-49ca-
 
 https://user-images.githubusercontent.com/45044810/164747521-555d0bb6-87cd-4c06-9ffb-1aeb35e06176.mp4
 
-<h3>Fine tunning and save a plot</h3>
+<h3>Fine tune and save a plot</h3>
 
 https://user-images.githubusercontent.com/45044810/164747535-65eb1b7c-ba1a-4758-94d7-c43b8d0958de.mp4
 
