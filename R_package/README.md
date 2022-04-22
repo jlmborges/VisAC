@@ -11,6 +11,6 @@ A demo gedcom of <A href="https://en.wikipedia.org/wiki/Charles_II_of_Spain">Cha
 
 The R package with the VisAC tool implementation.
 
-<h4><A href="">required_packages.R</A></h4>
+<h4><A href="https://github.com/jlmborges/VisAC/blob/main/R_package/required_packages.R">required_packages.R</A></h4>
 
 A script to install all the packages required to run VisAC.
