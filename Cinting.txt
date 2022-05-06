@@ -1,0 +1,3 @@
+Cite our work as 
+
+José Borges, VisAC: An interactive tool for Visual Analysis of Consanguinity in the ancestry of individuals, to appear in the Information Visualization Journal
